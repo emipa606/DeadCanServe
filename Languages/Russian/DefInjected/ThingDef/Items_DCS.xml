@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BloodBag.label>мешок для крови
+</BloodBag.label>
+  <BloodBag.description>Кровь, взятая у человека, будет использоваться для другого человека в медицинском лечении
+</BloodBag.description>
+
+  <ProteinPowder.label>высоким содержанием кальция порошок протеина 
+</ProteinPowder.label>
+  <ProteinPowder.description>Удобная поставка с обильным питанием в закрытой банке.Не так аппетитно, но никто не будет связывать её с его первоначальным источником
+</ProteinPowder.description>
+
+  <AntisepticCorpse.label>труп-антисептик
+</AntisepticCorpse.label>
+  <AntisepticCorpse.description>Труп, наполненный травой и завернутый в ткань.Похоже на маму, но так лучше.Когда вы снимите ткань,вы все равно получите тело без увядания и обезвоживания.Но даже не пытайтесь приготовить его как еду
+</AntisepticCorpse.description>
+
+  <CorpseFertilizer.label>труп удобрения
+</CorpseFertilizer.label>
+  <CorpseFertilizer.description>Измельчите мясо и поместите его в процесс брожения.Теперь мы получаем кровавое удобрение, которое полно питательных веществ
+</CorpseFertilizer.description>
+
+  <LargeMaggots.label>крупные личинки</LargeMaggots.label>
+  <LargeMaggots.description>Эти извивающиеся черви могут быть отвратительными, но содержат больше белков, чем мясо млекопитающих.Отлично подходит для кормления животных.Люди могут есть их, но они действительно ненавидят это.</LargeMaggots.description>
+
+  <ProgrammedMemoryDisk.label>Диск с программируемой памятью.</ProgrammedMemoryDisk.label>
+  <ProgrammedMemoryDisk.description>Маленький цифровой диск, который содержит память и знания человека с основными программами искусственного интеллекта.</ProgrammedMemoryDisk.description>
+
+  <TrainedMechanites.label>Обученные Механики</TrainedMechanites.label>
+  <TrainedMechanites.description>После извлечения из Люциферия эти механиты будут перепрограммированы и обучены для различных целей. И на этот раз эти озорные нанороботы должны работать в порядке и под контролем.</TrainedMechanites.description>
+
+
+</LanguageData>

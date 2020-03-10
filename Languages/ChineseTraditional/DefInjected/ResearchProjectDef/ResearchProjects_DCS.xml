@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CorpseRefinement.label>尸体精炼</CorpseRefinement.label>
+  <CorpseRefinement.description>通过一系列精密受控的水解、发酵和精炼程序，动物或人类的尸体能被生产成生物燃料、化肥以及蛋白粉。</CorpseRefinement.description>
+
+  <CorpseSculpture.label>尸体雕像</CorpseSculpture.label>
+  <CorpseSculpture.description>解除禁令，允许艺术家们使用尸体去展示生命与死亡之美。</CorpseSculpture.description>
+
+  <CorpseFarm.label>尸体农场</CorpseFarm.label>
+  <CorpseFarm.description>尸体是天然而肥沃的营养源，无论是用于种植还是养蛆都是一流。</CorpseFarm.description>
+
+
+  <!-- MechanizedFarming -->
+
+  <CorpseIrrigator.label>尸像灌溉</CorpseIrrigator.label>
+  <CorpseIrrigator.description>解锁建筑：尸像灌溉器。</CorpseIrrigator.description>
+
+  <CorpseMedicine.label>尸体医学</CorpseMedicine.label>
+  <CorpseMedicine.description>解锁尸体医学实验和尸体抽血技术。</CorpseMedicine.description>
+
+  <CorpseAntisepsis.label>尸体防腐</CorpseAntisepsis.label>
+  <CorpseAntisepsis.description>解锁一项改进的尸体防腐技术，可有效防止尸体腐烂和风干，并利于堆叠。</CorpseAntisepsis.description>
+
+  <BrainScanning.label>大脑扫描</BrainScanning.label>
+  <BrainScanning.description>扫描尸体的大脑并将其记忆和知识用AI程序归集整理，最后一并复刻进一块小小的电子硬盘中。这项工作需要灵巧的操作能力和聪慧的智力，在精密装配台解锁。</BrainScanning.description>
+
+  <CorpseServers.label>尸侍</CorpseServers.label>
+  <CorpseServers.description>使用机械系统和程序化记忆硬盘来将一具防腐尸体转化为拥有基础功能的机器人。它们也许没有足够高的智能来独立执行任务，但因为其生前的类人记忆，它们比一般的机器人更能理解主人的命令</CorpseServers.description>
+
+  <IntelligentServers.label>智能尸侍</IntelligentServers.label>
+  <IntelligentServers.description>提取自最高度发达的大脑的记忆，由最杰出的程序员撰写的代码，两者的结合使得这些半尸体半机器的侍者有能力独立操作高效机器或参与高智能工作。</IntelligentServers.description>
+
+  <PsychicInterference.label>心灵干涉</PsychicInterference.label>
+  <PsychicInterference.description>发射经过挑选和混合的记忆片段和感情脉冲到生者的大脑，可按目的对受体造成情绪失控、心灵失聪等效果。在精密装配台解锁各种心灵脉冲发射仪器的制作技术。</PsychicInterference.description>
+
+  <MemoryModification.label>记忆篡改</MemoryModification.label>
+  <MemoryModification.description>剪切、删除、混合。人类的记忆不但能被篡改，甚至还能被捏造。在精密装配台解锁记忆复制技术和乐丝芯片的生产。</MemoryModification.description>
+
+  <KnowledgeInfusion.label>知识灌输</KnowledgeInfusion.label>
+  <KnowledgeInfusion.description>在获得在记忆之海中提取和分类特定知识的技术后，知识转移技术也成为可能。环世界的科学家们或许需要从AI或外部世界中寻求额外的技术援助。在精密装配台解锁神经训练者机械液和科技教导副伪人格核心的制作。</KnowledgeInfusion.description>
+
+
+  <MechaniteTraining.label>械粒训练</MechaniteTraining.label>
+  <MechaniteTraining.description>路西法合剂能修复身体是因为它含有一种叫机械粒子的纳米机器人。把智能体连接到机械粒子里，我们可以理清它们的工作机制，甚至训练它们。但为了安全起见，还是不要将这些危险的械粒连进活人的大脑，记忆存盘中的纯粹意识体便能胜任这项工作。同样的，在这项技术成熟之前，不要将它运用到活人的身体上。在药物实验台解锁。</MechaniteTraining.description>
+
+  <MechaniteApplication.label>械粒运用</MechaniteApplication.label>
+  <MechaniteApplication.description>将机械粒子重新编程，按需转变功能，更具可操作性。现在它们可以安全地运用在活人身上了。在精密装配台解锁。</MechaniteApplication.description>
+
+
+</LanguageData>

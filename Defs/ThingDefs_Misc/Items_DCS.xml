@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	
+  <ThingDef ParentName="MedicineBase">
+    <defName>BloodBag</defName>
+    <label>blood bag</label>
+    <description>The Blood taken from a human will be used for another human in the medical treatment.</description>
+    <graphicData>
+		<texPath>Things/Item/BloodBag</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+		<drawSize>0.85</drawSize>
+    </graphicData>
+    <soundInteract>Standard_Drop</soundInteract>
+    <soundDrop>Standard_Drop</soundDrop>
+	<techLevel>Industrial</techLevel>
+	<stackLimit>5</stackLimit>
+	<statBases>
+		<MaxHitPoints>30</MaxHitPoints>
+		<MarketValue>12</MarketValue>
+		<Mass>0.3</Mass>
+		<Flammability>0.5</Flammability>
+		<MedicalPotency>0.8</MedicalPotency>
+		<MedicalQualityMax>0.85</MedicalQualityMax>
+		<DeteriorationRate>5</DeteriorationRate>
+		<WorkToMake>500</WorkToMake>
+    </statBases>
+    <tickerType>Rare</tickerType>
+	<comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>6</daysToRotStart>
+				<rotDestroys>true</rotDestroys>
+			</li>
+    </comps>
+  
+  </ThingDef>
+  
+  
+   <ThingDef ParentName="OrganicProductBase">
+    <defName>ProteinPowder</defName>
+    <label>high-calcium protein powder</label>
+    <description>Convenient supply with abundant nutrition in a sealed jar. Not so palatable, but nobody will associate it with its original source.</description>
+    <graphicData>
+      <texPath>Things/Item/ProteinPowder</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+	<socialPropernessMatters>true</socialPropernessMatters>
+	<stackLimit>10</stackLimit>
+    <statBases>
+      <DeteriorationRate>0.25</DeteriorationRate>
+      <MarketValue>28</MarketValue>
+      <Mass>0.3</Mass>
+      <WorkToMake>450</WorkToMake>
+      <Nutrition>1.1</Nutrition>
+    </statBases>
+	<thingCategories>
+      <li>Foods</li>
+    </thingCategories>
+    <ingestible>
+	  <foodType>AnimalProduct</foodType>
+      <preferability>MealSimple</preferability>
+      <optimalityOffsetHumanlikes>-5</optimalityOffsetHumanlikes>
+      <optimalityOffsetFeedingAnimals>-20</optimalityOffsetFeedingAnimals>
+			<ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>Meal_Eat</ingestSound>
+    </ingestible>
+  </ThingDef>
+  
+    <ThingDef ParentName="ResourceBase">
+    <defName>AntisepticCorpse</defName>
+    <label>antiseptic corpse</label>
+    <description>An corpse filled with herb and wrapped by cloth. Sounds like mummy,but it's better.Whenever you remove the cloth, you will still get a body without decay and dehydration. But don't even try to cook it as food.</description>
+    <graphicData>
+      <texPath>Things/Item/AntisepticCorpse</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>1.20</drawSize>
+    </graphicData>
+    <stackLimit>3</stackLimit>
+    <statBases>
+      <MaxHitPoints>150</MaxHitPoints>
+      <MarketValue>60</MarketValue>
+      <Mass>40</Mass>
+      <Flammability>0.7</Flammability>
+	  <DeteriorationRate>1.0</DeteriorationRate>
+		</statBases>
+    <thingCategories>
+      <li>Manufactured</li>
+    </thingCategories>
+	<tradeTags>
+		<li>ExoticMisc</li>
+	</tradeTags>
+  </ThingDef>
+  
+
+  
+  <ThingDef ParentName="ResourceBase">
+		<defName>CorpseFertilizer</defName>
+		<label>corpse fertilizer</label>
+		<description>Grind the meat and put them in fermentation process. Now we get the bloody fertilizer which is full of nutrient.</description>
+		<graphicData>
+			<texPath>Things/Item/CorpseFertilizer</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<stackLimit>55</stackLimit>
+		<statBases>
+			<MaxHitPoints>15</MaxHitPoints>
+			<MarketValue>1</MarketValue>
+		    <Mass>0.35</Mass>
+			<Flammability>0.9</Flammability>
+		</statBases>
+		<thingCategories>
+			<li>ResourcesRaw</li>
+		</thingCategories>
+	</ThingDef>
+  
+   <ThingDef ParentName="OrganicProductBase">
+    <defName>LargeMaggots</defName>
+    <label>large maggots</label>
+    <description>These squirming worms may be disgusting, but contain more proteins than mammal's meats. Great for feeding animals. Humans can eat them, but they really hate it.</description>
+    <thingCategories>
+      <li>Foods</li>
+    </thingCategories>
+    <graphicData>
+      <texPath>Things/Item/LargeMaggots</texPath>
+	  <graphicClass>Graphic_Single</graphicClass>
+	  <drawSize>0.85</drawSize>
+    </graphicData>
+    <socialPropernessMatters>true</socialPropernessMatters>
+	<stackLimit>75</stackLimit>
+    <statBases>
+      <MarketValue>1.1</MarketValue>
+      <Mass>0.015</Mass>
+      <Nutrition>0.06</Nutrition>
+      <FoodPoisonChanceFixedHuman>0.02</FoodPoisonChanceFixedHuman>
+    </statBases>
+    <ingestible>
+      <foodType>Kibble</foodType>
+      <preferability>RawBad</preferability>
+			<tasteThought>AteKibble</tasteThought>
+			<optimalityOffsetHumanlikes>-30</optimalityOffsetHumanlikes>
+      <optimalityOffsetFeedingAnimals>15</optimalityOffsetFeedingAnimals>
+      <ingestEffect>EatVegetarian</ingestEffect>
+      <ingestSound>RawVegetable_Eat</ingestSound>
+    </ingestible>
+    <comps>
+      <li Class="CompProperties_Ingredients" />
+    </comps>
+  </ThingDef>
+  
+    <ThingDef ParentName="ResourceBase">
+		<defName>ProgrammedMemoryDisk</defName>
+		<label>Programmed MemoryDisk</label>
+		<description>A little digital disk which contains a human's memory and knowledge with basic AI programs.</description>
+		<graphicData>
+			<texPath>Things/Item/ProgrammedMemoryDisk</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>1</drawSize>
+		</graphicData>
+		<soundInteract>Metal_Drop</soundInteract>
+		<soundDrop>Standard_Drop</soundDrop>		
+		<stackLimit>3</stackLimit>
+		<statBases>
+		  <MaxHitPoints>70</MaxHitPoints>
+		  <MarketValue>220</MarketValue>
+		  <Mass>0.6</Mass>
+		  <Flammability>0.6</Flammability>
+		  <DeteriorationRate>2.0</DeteriorationRate>
+		</statBases>
+		<thingCategories>
+		  <li>Manufactured</li>
+		</thingCategories>
+		<tradeTags>
+			<li>ExoticMisc</li>
+		</tradeTags>
+	</ThingDef>
+	
+	<ThingDef ParentName="ResourceBase">
+		<defName>TrainedMechanites</defName>
+		<label>Trained Mechanites</label>
+		<description>After the extraction from Luciferium, these mechanites will be reprogramed and trained for varied purposes. And this time, these naughty nano robots should work in order and in control.</description>
+		<graphicData>
+			<texPath>Things/Item/TrainedMechanites</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>1</drawSize>
+		</graphicData>
+		<soundInteract>Metal_Drop</soundInteract>
+		<soundDrop>Standard_Drop</soundDrop>		
+		<stackLimit>5</stackLimit>
+		<statBases>
+			<MaxHitPoints>70</MaxHitPoints>
+			<MarketValue>360</MarketValue>
+			<Mass>0.3</Mass>
+			<Flammability>0.5</Flammability>
+			<DeteriorationRate>2.0</DeteriorationRate>
+		</statBases>
+		<thingCategories>
+			<li>Manufactured</li>
+		</thingCategories>
+		<tradeTags>
+			<li>ExoticMisc</li>
+		</tradeTags>
+	</ThingDef>
+	
+</Defs>

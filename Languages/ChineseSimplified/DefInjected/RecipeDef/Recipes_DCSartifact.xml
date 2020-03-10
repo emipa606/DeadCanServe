@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ScanCorpseBrain.label>扫描尸体大脑</ScanCorpseBrain.label>
+  <ScanCorpseBrain.description>扫描尸体的大脑并将其记忆和知识用AI程序归集整理，最后一并复刻进一块小小的电子硬盘中。这项工作需要灵巧的操作能力和聪慧的智力。</ScanCorpseBrain.description>
+  <ScanCorpseBrain.jobString>扫描尸体大脑</ScanCorpseBrain.jobString>
+
+  <ReplicateMemoryDisk.label>记忆复制</ReplicateMemoryDisk.label>
+  <ReplicateMemoryDisk.description>将其它记忆硬盘中的信息混合、重组来创造新的记忆。想要在编造的故事中避免记忆之间的冲突和谬误可不是一件简单的事情。</ReplicateMemoryDisk.description>
+  <ReplicateMemoryDisk.jobString>记忆复制</ReplicateMemoryDisk.jobString>
+
+  <MakePsychicInsanityLanceDCS.label>制作心灵错乱枪</MakePsychicInsanityLanceDCS.label>
+  <MakePsychicInsanityLanceDCS.description>制作一款可以将死者们的混合记忆发送到活体生物大脑的装置。这些混乱的记忆想必会让受体陷入疯狂。</MakePsychicInsanityLanceDCS.description>
+  <MakePsychicInsanityLanceDCS.jobString>正在制作心灵错乱枪.</MakePsychicInsanityLanceDCS.jobString>
+
+  <MakePsychicShockLanceDCS.label>制作心灵冲击枪</MakePsychicShockLanceDCS.label>
+  <MakePsychicShockLanceDCS.description>制作制作一款可以将死者们的混合记忆发送到活体生物大脑的装置。这些混乱的记忆想必会让受体心灵失聪，并很可能造成脑损伤。</MakePsychicShockLanceDCS.description>
+  <MakePsychicShockLanceDCS.jobString>正在制作心灵冲击枪.</MakePsychicShockLanceDCS.jobString>
+
+  <MakePsychicSoothePulserDCS.label>制作心灵抚慰脉冲发生器</MakePsychicSoothePulserDCS.label>
+  <MakePsychicSoothePulserDCS.description>从死者们的记忆中挑选平和、安宁的片段，再发射到生者们的大脑中。这些愉快的外来记忆想必会令人们的心情保持欢畅，虽然他们并不知道为什么。</MakePsychicSoothePulserDCS.description>
+  <MakePsychicSoothePulserDCS.jobString>正在制作心灵抚慰脉冲发生器</MakePsychicSoothePulserDCS.jobString>
+
+  <MakePsychicAnimalPulserDCS.label>制作动物心灵脉冲发生器</MakePsychicAnimalPulserDCS.label>
+  <MakePsychicAnimalPulserDCS.description>从死者们的记忆中挑选最暴虐、残酷的记忆并发送到一片区域内的的动物大脑中，即使是最平和的物种也会因这些充满威胁的记忆映像陷入狂暴，在人类猎杀它们之前猎杀人类。</MakePsychicAnimalPulserDCS.description>
+  <MakePsychicAnimalPulserDCS.jobString>正在制作动物心灵脉冲发生器</MakePsychicAnimalPulserDCS.jobString>
+
+  <MakeTechprofSubpersonaCoreDCS.label>制作科技教导副伪人格核心</MakeTechprofSubpersonaCoreDCS.label>
+  <MakeTechprofSubpersonaCoreDCS.description>想让环世界的人们独立研发出掌握未知科技的AI是不可能的。但如果他们拥有一个人格核心作为模板，并从外部世界购得一些技术支持，他们或许能从死者们的知识碎片中东拼西凑出一项合理、自洽的新技术。</MakeTechprofSubpersonaCoreDCS.description>
+  <MakeTechprofSubpersonaCoreDCS.jobString>正在制作科技教导副伪人格核心</MakeTechprofSubpersonaCoreDCS.jobString>
+
+  <MakeJoywireDCS.label>制作乐丝芯片</MakeJoywireDCS.label>
+  <MakeJoywireDCS.description>制作一款大脑植入芯片，能间断地释放经过编辑的死者们生前的幸福记忆。</MakeJoywireDCS.description>
+  <MakeJoywireDCS.jobString>正在制作乐丝芯片</MakeJoywireDCS.jobString>
+
+
+</LanguageData>

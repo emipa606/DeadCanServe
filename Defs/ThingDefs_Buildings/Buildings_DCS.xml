@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef Name="DCS_GrowerBase" Abstract="True">
+    <category>Building</category>
+    <thingClass>Building</thingClass>
+    <soundImpactDefault>BulletImpact_Metal</soundImpactDefault>
+    <selectable>true</selectable>
+    <drawerType>MapMeshAndRealTime</drawerType>
+    <repairEffect>Repair</repairEffect>
+    <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+    <filthLeaving>Filth_RubbleBuilding</filthLeaving>
+	<altitudeLayer>FloorEmplacement</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>60</pathCost>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>0.30</fillPercent>
+	<rotatable>false</rotatable>
+	<canOverlapZones>false</canOverlapZones>
+   <statBases>
+      <WorkToBuild>2000</WorkToBuild>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <Cleanliness>-3</Cleanliness>
+	  <SellPriceFactor>0.70</SellPriceFactor>
+    </statBases>
+	<building>
+      <defaultPlantToGrow>Plant_Rice</defaultPlantToGrow>
+      <sowTag>Hydroponic</sowTag>
+    </building>
+	<comps>
+		<li Class="CompProperties_Forbiddable"/>
+	</comps>
+    <tickerType>Rare</tickerType>
+    <designationCategory>Production</designationCategory>
+	<researchPrerequisites>
+		  <li>CorpseFarm</li>
+	</researchPrerequisites>
+  </ThingDef>
+
+ <!-- 棺材种植箱 -->
+  <ThingDef ParentName="DCS_GrowerBase">
+    <defName>PlanterCoffin</defName>
+    <label>planter coffin(horizontal)</label>
+    <description>A corpse is the best source of nutrition for plants and the coffin is also perfect to be the planting box. With 214% fertility.</description>
+    <thingClass>Building_PlantGrower</thingClass>
+    <graphicData>
+      <texPath>Things/Building/PlanterCoffin</texPath>
+	  <graphicClass>Graphic_Random</graphicClass>
+      <!-- <graphicClass>Graphic_Single</graphicClass> -->
+      <drawSize>(2,1)</drawSize>
+	  	<damageData>
+		<cornerTL>Damage/Corner</cornerTL>
+		<cornerTR>Damage/Corner</cornerTR>
+		<cornerBL>Damage/Corner</cornerBL>
+		<cornerBR>Damage/Corner</cornerBR>
+	</damageData>
+    </graphicData>
+	 <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+    <size>(2,1)</size>
+     <costList>
+		<WoodLog>30</WoodLog>
+		<AntisepticCorpse>1</AntisepticCorpse>
+    </costList>
+    <fertility>2.14</fertility>
+	<terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+  </ThingDef>
+  
+    <ThingDef ParentName="DCS_GrowerBase">
+    <defName>VerPlanterCoffin</defName>
+    <label>planter coffin(vertical)</label>
+    <description>A corpse is the best source of nutrition for plants and the coffin is also perfect to be the planting box. With 214% fertility.</description>
+    <thingClass>Building_PlantGrower</thingClass>
+    <graphicData>
+      <texPath>Things/Building/VerPlanterCoffin</texPath>
+	  <graphicClass>Graphic_Random</graphicClass>
+      <!-- <graphicClass>Graphic_Single</graphicClass> -->
+      <drawSize>(1,2)</drawSize>
+	  	<damageData>
+		<cornerTL>Damage/Corner</cornerTL>
+		<cornerTR>Damage/Corner</cornerTR>
+		<cornerBL>Damage/Corner</cornerBL>
+		<cornerBR>Damage/Corner</cornerBR>
+	</damageData>
+    </graphicData>
+	 <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+    <size>(1,2)</size>
+     <costList>
+		<WoodLog>30</WoodLog>
+		<AntisepticCorpse>1</AntisepticCorpse>
+    </costList>
+    <fertility>2.14</fertility>
+	<terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+  </ThingDef>
+  
+  <!-- 灌溉================================================ -->
+  
+   <ThingDef ParentName="BuildingBase">
+    <defName>CorpseIrrigator</defName>
+    <label>Corpse Irrigator</label>
+    <description>First,dissolve the Corpse Fertilizer into a little tank,then you get the best nutrient solution. Second, build a statue with corpse which can piss the nutrition liquid periodically in adjustable direction. Now you get a artistic semi-auto irrigator.</description>
+    <thingClass>Building_PlantGrower</thingClass>
+    <graphicData>
+      <texPath>Things/Building/CorpseIrrigator</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(3,2)</drawSize>
+      <damageData>
+        <cornerTL>Damage/Corner</cornerTL>
+        <cornerTR>Damage/Corner</cornerTR>
+        <cornerBL>Damage/Corner</cornerBL>
+        <cornerBR>Damage/Corner</cornerBR>
+      </damageData>
+    </graphicData>
+    <castEdgeShadows>true</castEdgeShadows>
+    <altitudeLayer>FloorEmplacement</altitudeLayer>
+    <defaultPlacingRot>East</defaultPlacingRot>
+    <passability>PassThroughOnly</passability>
+    <pathCost>60</pathCost>
+    <constructEffect>ConstructMetal</constructEffect>
+    <fillPercent>0.5</fillPercent>
+    <canOverlapZones>false</canOverlapZones>
+    <constructionSkillPrerequisite>4</constructionSkillPrerequisite>
+    <statBases>
+      <WorkToBuild>2800</WorkToBuild>
+      <MaxHitPoints>180</MaxHitPoints>
+      <Flammability>0.5</Flammability>
+      <Cleanliness>-3</Cleanliness>
+    </statBases>
+    <size>(3,2)</size>
+    <costList>
+      <Steel>100</Steel>
+      <ComponentIndustrial>2</ComponentIndustrial>
+	  <AntisepticCorpse>1</AntisepticCorpse>
+	  <CorpseFertilizer>36</CorpseFertilizer>
+    </costList>
+    <fertility>3.33</fertility>
+    <building>
+      <defaultPlantToGrow>Plant_Rice</defaultPlantToGrow>
+      <sowTag>Hydroponic</sowTag>
+    </building>
+    <tickerType>Rare</tickerType>
+    <comps>
+      <li Class="CompProperties_Forbiddable"/>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>110</basePowerConsumption>
+      </li>
+      <li Class="CompProperties_Flickable"/>
+    </comps>
+    <researchPrerequisites>
+      <li>CorpseIrrigator</li>
+    </researchPrerequisites>
+    <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+    <designationCategory>Production</designationCategory>
+  </ThingDef>
+
+
+  
+  <!-- 蛆虫培育================================================ -->
+	<ThingDef ParentName="BuildingBase">
+    <defName>MaggotsBreeder</defName>
+    <label>maggots breeder</label>
+    <description>These necrophagous maggots can grow and reproduce in unbelievable efficiency. Leave them with some antiseptic corpses to limit their appetites so that they won't consume the foods too soon then starve themselves.</description>
+    <graphicData>
+      <texPath>Things/Building/MaggotBreeder</texPath>
+      <graphicClass>Graphic_Random</graphicClass>
+      <drawSize>(2, 2)</drawSize>
+      <shadowData>
+        <volume>(1.8, 1.0, 0.2)</volume>
+        <offset>(0.0, 0.0, -0.4)</offset>
+      </shadowData>
+    </graphicData>
+    <costList>
+      <Steel>100</Steel>
+      <AntisepticCorpse>3</AntisepticCorpse>
+    </costList>
+<!-- 	<stuffCategories>
+      <li>Stony</li>
+    </stuffCategories>
+	 <costStuffCount>120</costStuffCount> -->
+    <comps>
+      <li Class="CompProperties_Breakdownable"/>
+      <li Class="CompProperties_Flickable"/>
+      <li Class="CompProperties_Spawner">
+        <requiresPower>false</requiresPower>
+        <thingToSpawn>LargeMaggots</thingToSpawn>
+        <spawnCount>75</spawnCount>
+        <spawnIntervalRange><min>200000</min><max>285000</max></spawnIntervalRange>
+        <writeTimeLeftToSpawn>true</writeTimeLeftToSpawn>
+        <showMessageIfOwned>true</showMessageIfOwned>
+      </li>
+      <li Class="CompProperties_Explosive">
+        <explosiveRadius>8</explosiveRadius>
+        <explosiveDamageType>Flame</explosiveDamageType>
+      </li>
+    </comps>
+    <altitudeLayer>Building</altitudeLayer>
+	 <thingClass>Building_WorkTable</thingClass>
+    <statBases>
+      <MarketValue>1500</MarketValue>
+      <MaxHitPoints>200</MaxHitPoints>
+      <Flammability>0.4</Flammability>
+      <Beauty>10</Beauty>
+      <Mass>70</Mass>
+      <WorkToBuild>2800</WorkToBuild>
+    </statBases>
+    <tickerType>Normal</tickerType>
+    <size>(2, 2)</size>
+    <fillPercent>0.6</fillPercent>
+    <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+    <passability>PassThroughOnly</passability>
+	 <hasInteractionCell>True</hasInteractionCell>
+    <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+    <inspectorTabs>
+      <li>ITab_Bills</li>
+    </inspectorTabs>
+	 <building>
+      <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+    </building>
+    <pathCost>60</pathCost>
+    <rotatable>false</rotatable>
+    <canOverlapZones>false</canOverlapZones>
+   <!--  <minifiedDef>MinifiedThing</minifiedDef> -->
+	<designationCategory>Production</designationCategory>
+	<researchPrerequisites>
+		  <li>CorpseFarm</li>
+	</researchPrerequisites>
+  </ThingDef>
+  
+  <!--================================ Sculptures 十字架 ======================================-->
+  <ThingDef ParentName="BuildingBase" Name="DCS_SculptureBase" Abstract="True">
+    <thingClass>Building_Art</thingClass>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <pathCost>70</pathCost>
+    <castEdgeShadows>true</castEdgeShadows>
+    <useHitPoints>true</useHitPoints>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories>
+      <li>BuildingsArt</li>
+    </thingCategories>
+    <statBases>
+      <Flammability>1.0</Flammability>
+			<SellPriceFactor>1.15</SellPriceFactor>
+    </statBases>
+    <comps>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+      <li Class="CompProperties_Art">
+        <nameMaker>NamerArtSculpture</nameMaker>
+        <descriptionMaker>ArtDescription_Sculpture</descriptionMaker>
+				<canBeEnjoyedAsArt>true</canBeEnjoyedAsArt>
+      </li>
+    </comps>
+    <inspectorTabs>
+      <li>ITab_Art</li>
+    </inspectorTabs>
+    <recipeMaker>
+      <workSpeedStat>SculptingSpeed</workSpeedStat>
+      <workSkill>Artistic</workSkill>
+      <unfinishedThingDef>UnfinishedSculpture</unfinishedThingDef>
+      <effectWorking>Sculpt</effectWorking>
+      <soundWorking>Recipe_Sculpt</soundWorking>
+      <recipeUsers>
+        <li>TableSculpting</li>
+      </recipeUsers>
+    </recipeMaker>
+	<costList>
+		<WoodLog>30</WoodLog>
+		<AntisepticCorpse>1</AntisepticCorpse>
+	 </costList>
+  </ThingDef>
+
+  <ThingDef ParentName="DCS_SculptureBase">
+    <defName>Crucifix_DCS</defName>
+    <label>crucifix</label>
+    <description>The most lifelike sculpture can only be made with real life. If you let your spawns hide behind it, your opponents will just wonder which bodies they should aim at.</description>
+    <graphicData>
+      <!-- <graphicClass>Graphic_Single</graphicClass> -->
+	  <graphicClass>Graphic_Multi</graphicClass>
+      <texPath>Things/Building/Crucifix</texPath>
+	  <drawSize>(3.5,3.5)</drawSize>
+    </graphicData>
+    <fillPercent>0.75</fillPercent>
+    <rotatable>true</rotatable>
+    <statBases>
+      <MaxHitPoints>290</MaxHitPoints>
+      <Mass>50</Mass>
+      <Beauty>50</Beauty>
+      <WorkToMake>2000</WorkToMake>
+    </statBases>
+	<researchPrerequisites>
+		  <li>CorpseSculpture</li>
+	</researchPrerequisites>
+  </ThingDef>
+
+
+</Defs>

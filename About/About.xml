@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Dead Can Serve</name>
+    <supportedVersions>
+        <li>1.0</li>
+		<li>1.1</li>
+    </supportedVersions>
+	<packageId>CaptainSnafu.DeadCanServe</packageId>
+	<author>CapatinSnafu</author>
+	<url></url>
+	<description>
+	
+Mod description:
+This mod adds several ways to utilize the corpses. Dead coloniest can still save,feed ，teach or protect the living one.
+Should be balanced with the vanilla game and compatible with any other mods. Safe with existing savefile.
+
+New TechTree:
+This tech tree contains every parts of this mod. If you don't like anything in this mod, you can just not research it and it won't show up in your game.
+
+New Items:
+ProteinPowder: produced from humanlike or animal corpse in Refinery. High nutrition packaged food, can avoid the cannibal penalty because nobody will associate it with human's body.
+BloodBag: drawn from humanlike corpse in DrugLab, can be used as medicine.
+AntisepticCorpse: processed in DrugLab and ButcherTable. Can be stacked and used for buildings.
+CorpseFertilizer: processed in Refinery. Then you can use these bloody fertilizer to build a new terrain: blood soil(175%fertility).
+LargeMaggots: These squirming worms may be disgusting, but contain more proteins than mammal's meats.Great for feeding animals. Breeded in Maggots Breeder.
+ProgrammedMemoryDisk: Scan the corpse's brain and reprint its memory and knowledge along with AI programs into a small digital disk. Made in Fabrication Bench.
+TrainedMechanites: Can extract nano robots in the Luciferium and train them with dead man's mind in a corpse.
+
+New Jobs:
+Breed Maggots with humanlike or animal corpse in MaggotsBreeder instantly.
+Produce ProteinPowder with LargeMaggots in Refinery.
+Produce Chemfuel with humanlike or animal corpse in Refinery.
+Produce vanilla Psychic Artifacts with Programmed Memory Disk in Fabrication Bench. (Insanity Lance,Shock Lance,Soothe Pulser,Animal Pulser)
+Produce Neurotrainer MechSerum and Techprof Subpersona Core with Programmed Memory Disk in Fabrication Bench.
+Produce Joywire with Programmed Memory Disk in Fabrication Bench.
+Replicate Programmed Memory Disk in Fabrication Bench.
+Experiment on corpse to train Medicine skill in DrugLab.
+Can use Mechanites to form(fake) AntisepticCorpses with RawMeats.
+Can use Mechanites to do an Advanced Anatomy to harvest organs
+Can use Mechanites to produce Healer \ Resurrector \ Neurotrainer Mech Serum
+
+New Buildings:
+Crucifix: The most lifelike sculpture can only be made out of real life.If you let your spawns hide behind it,your opponents will just wonder which bodies they should aim at. Made in SculpturingBench.
+PlanterCoffin: A corpse is the best source of nutrition for plants and the coffin is also perfect to be the planting box.With 214% fertility.
+CorpseIrrigator: A power-consuming planter-box with 333% fertility. With a corpse status which can pee the nutrition liquid periodically in adjustable direction.
+MaggotsBreeder: Will slowly generate LargeMaggots as kibbles.
+CorpseServers Series: Use ProgrammedMemoryDisk to turn an AntisepticCorpse into a half-corpse-half-robot servers !! They may not intelligent enough to finish the job by themselves but can assist your pawns and improve the working efficiency.
+	
+	===================================
+	
+	996,ICU. 
+
+	
+	</description>
+</ModMetaData>

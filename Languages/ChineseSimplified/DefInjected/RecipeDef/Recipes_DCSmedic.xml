@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TakeBloodFromCorpse.label>从尸体中抽血</TakeBloodFromCorpse.label>
+  <TakeBloodFromCorpse.description>比起死者，也许活着的人更需要这些血液.</TakeBloodFromCorpse.description>
+  <TakeBloodFromCorpse.jobString>正从尸体中抽血.</TakeBloodFromCorpse.jobString>
+
+  <ExperimentOnCorpse.label>在尸体上做实验</ExperimentOnCorpse.label>
+  <ExperimentOnCorpse.description>如果你想要练习你的救人技能，那么你最好拿人的身体来练手。。</ExperimentOnCorpse.description>
+  <ExperimentOnCorpse.jobString>在尸体上做实验</ExperimentOnCorpse.jobString>
+
+  <MakeAntisepticCorpse.label>制作防腐尸体</MakeAntisepticCorpse.label>
+  <MakeAntisepticCorpse.description>将尸体填满草药并用布匹包裹。但比木乃伊更棒的是，在任何时候拆开布带，你都能得到一具未腐烂且未风干的尸体。什么？吃它？想都别想。</MakeAntisepticCorpse.description>
+  <MakeAntisepticCorpse.jobString>制作防腐尸体.</MakeAntisepticCorpse.jobString>
+
+  <MakeAntisepticCorpseBT.label>制作防腐尸体</MakeAntisepticCorpseBT.label>
+  <MakeAntisepticCorpseBT.description>将尸体填满草药并用布匹包裹。这项防腐工作本应在更干净、专业的工台上完成，例如药物试验台。无论如何，现在你们也可以在屠宰台上弄了，但需要花费更多材料和更长时间。</MakeAntisepticCorpseBT.description>
+  <MakeAntisepticCorpseBT.jobString>正制作防腐尸体</MakeAntisepticCorpseBT.jobString>
+
+  <MakeTrainedMechanites.label>在尸体中训练机械粒子</MakeTrainedMechanites.label>
+  <MakeTrainedMechanites.description>路西法合剂能修复身体是因为它含有一种叫机械粒子的纳米机器人。\n\n首先，我们将从尸体扫描而得的意识体连接到机械粒子里。\n\n然后将机械粒子注入尸体中，通过意识体的反馈和报告，弄清它们的工作机制，并指导它们如何在不搞乱身体其它部分的前提下完成工作。\n\n最后，用闪耀世界医药中纳米科技收集并补充它们。</MakeTrainedMechanites.description>
+  <MakeTrainedMechanites.jobString>正训练机械粒子</MakeTrainedMechanites.jobString>
+  
+  <TrainedMechanitesFromHealerSerum.label>从机械治愈液中提取机械粒子</TrainedMechanitesFromHealerSerum.label>
+  <TrainedMechanitesFromHealerSerum.description>机械治愈液能修复身体是因为它含有一种叫机械粒子的纳米机器人，而且它们比路合法合剂中的同类们要安全得多。\n\n我们只需要将它们提取出来再重设或调整它们的功能，我们可将一些意识体连接到机械粒子里，这样更容易了解并改变它们的工作目标甚至是原理。\n\n最后，用闪耀世界医药中的纳米科技补充它们在提取过程中的损失。</TrainedMechanitesFromHealerSerum.description>
+  <TrainedMechanitesFromHealerSerum.jobString>正训练机械粒子</TrainedMechanitesFromHealerSerum.jobString>
+
+  <FormAntisepticCorpses.label>生成防腐尸体</FormAntisepticCorpses.label>
+  <FormAntisepticCorpses.description>移除机械粒子的安全限制，将功效推进到最大。不再需要顾虑间接伤害或副作用，它们要做的只是将一堆生肉重构、仿造成类人尸体的模样。</FormAntisepticCorpses.description>
+  <FormAntisepticCorpses.jobString>正在生成防腐尸体</FormAntisepticCorpses.jobString>
+
+  <AdvancedAnatomy.label>进阶解剖</AdvancedAnatomy.label>
+  <AdvancedAnatomy.description>采集器官的难点在于，但尸体被送上手术台时往往已经太迟了。但现在，我们可以运用机械粒子来修复损坏的器官，并用记忆存盘中的神经信号来唤醒失活的器官。只要保证尸体新鲜，你就能收获一整套器官。</AdvancedAnatomy.description>
+  <AdvancedAnatomy.jobString>正从尸体上采集器官</AdvancedAnatomy.jobString>
+
+  <MakeMechSerumHealerDCS.label>制作治愈者机械液</MakeMechSerumHealerDCS.label>
+  <MakeMechSerumHealerDCS.description>首先，将训练过的机械粒子重新编程至安全模式，移除绝大多数会造成致命成瘾性的行为代码。改变工作模式会影响到它们的工作效率，但我们可以用闪耀世界的医药与之结合来抵消减益。经过这一系列麻烦的操作后，我们就能仿造出一支治愈者机械液了。</MakeMechSerumHealerDCS.description>
+  <MakeMechSerumHealerDCS.jobString>正制作治愈者机械液</MakeMechSerumHealerDCS.jobString>
+
+  <MakeMechSerumResurrectorDCS.label>制作再生者机械液</MakeMechSerumResurrectorDCS.label>
+  <MakeMechSerumResurrectorDCS.description>生成再生者机械液的技术和程序跟制作治愈者机械液大同小异。当然，这个会需要更多的机械粒子和药品，还有额外的最后一步，用死者的生前记忆去唤醒被复苏的肌体，让它记起如何工作、如何活着。</MakeMechSerumResurrectorDCS.description>
+  <MakeMechSerumResurrectorDCS.jobString>正制作再生者机械液</MakeMechSerumResurrectorDCS.jobString>
+
+  <MakeMechSerumNeurotrainerDCS.label>制作神经训练者机械液</MakeMechSerumNeurotrainerDCS.label>
+  <MakeMechSerumNeurotrainerDCS.description>从死者们的记忆中搜寻、归集特定领域的知识，并将之整合后传输进来自闪耀世界的纳米机械人程序中，虽然不知道它们是怎么做到的，但它们能将这些知识倾泻入生者的脑海中。</MakeMechSerumNeurotrainerDCS.description>
+  <MakeMechSerumNeurotrainerDCS.jobString>正在制作神经训练者机械液</MakeMechSerumNeurotrainerDCS.jobString>
+
+
+</LanguageData>

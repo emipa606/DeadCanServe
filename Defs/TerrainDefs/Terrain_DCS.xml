@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TerrainDef>
+	<defName>CorpseBuriedSoil</defName>
+	<label>blood soil</label>
+	<description>Soil fertilized by blood and flesh. With 175% fertility.</description>
+	<texturePath>Things/floor/CorpseBuriedSoil</texturePath>
+    <edgeType>FadeRough</edgeType>
+    <renderPrecedence>335</renderPrecedence>
+    <pathCost>5</pathCost>
+    <statBases>
+      <Beauty>-2</Beauty>
+	  <WorkToBuild>120</WorkToBuild>
+    </statBases>
+	<designationCategory>Floors</designationCategory>
+	<constructEffect>ConstructDirt</constructEffect>
+    <affordances>
+      <li>Light</li>
+      <li>Medium</li>
+ 	  <li>Heavy</li>
+      <li>GrowSoil</li>
+      <li>Diggable</li>
+    </affordances>
+    <generatedFilth>Filth_Dirt</generatedFilth>
+    <fertility>1.75</fertility>
+    <takeFootprints>True</takeFootprints>
+	<acceptFilth>True</acceptFilth>
+    <avoidWander>true</avoidWander>
+	<terrainAffordanceNeeded>GrowSoil</terrainAffordanceNeeded>
+    <costList>
+		<CorpseFertilizer>8</CorpseFertilizer>
+	 </costList>
+  </TerrainDef>
+  
+  </Defs>
