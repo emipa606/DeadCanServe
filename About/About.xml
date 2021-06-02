@@ -4,8 +4,9 @@
     <supportedVersions>
         <li>1.0</li>
 		<li>1.1</li>
+		<li>1.2</li>
     </supportedVersions>
-	<packageId>CaptainSnafu.DeadCanServe</packageId>
+	<packageId>Ogliss.CaptainSnafu.DeadCanServe</packageId>
 	<author>CapatinSnafu</author>
 	<url></url>
 	<description>

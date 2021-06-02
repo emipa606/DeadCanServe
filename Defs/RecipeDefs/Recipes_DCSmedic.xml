@@ -70,6 +70,7 @@
 				<filter>
 					<categories>
 						<li>CorpsesHumanlike</li>
+						<li MayRequire="erdelf.HumanoidAlienRaces" >alienCorpseCategory</li>
 					</categories>
 				</filter>
 				<count>1</count>
@@ -84,6 +85,10 @@
 			</li>
 		</ingredients>
 		<fixedIngredientFilter>
+			  <categories>
+				<li>CorpsesHumanlike</li>
+				<li MayRequire="erdelf.HumanoidAlienRaces" >alienCorpseCategory</li>
+			  </categories>
 			<specialFiltersToDisallow>
 				<li>AllowRotten</li>
 			</specialFiltersToDisallow>
