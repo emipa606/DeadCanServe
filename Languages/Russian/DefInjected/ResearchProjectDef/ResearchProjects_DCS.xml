@@ -1,51 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <CorpseRefinement.label>Очищение Трупа</CorpseRefinement.label>
   <CorpseRefinement.description>Контролируемым гидролизом, уточнением или заквашиванием в рафинадном заводе,животные или люди как трупы могут также быть порошком протеина и удобрением.</CorpseRefinement.description>
-
   <CorpseSculpture.label>Скульптура Трупа</CorpseSculpture.label>
   <CorpseSculpture.description>Позвольте художнику исполнить красоту жизни и смерти с трупами.</CorpseSculpture.description>
-
   <CorpseFarm.label>Трупная Ферма.</CorpseFarm.label>
   <CorpseFarm.description>Трупы являются богатыми и естественными источниками питания.Отлично подходит для посадки и разведения личинок.</CorpseFarm.description>
-
-
   <!-- MechanizedFarming -->
-
   <CorpseIrrigator.label>Трупный Ирригатор.</CorpseIrrigator.label>
   <CorpseIrrigator.description>Откройте ирригатор трупа.</CorpseIrrigator.description>
-
   <CorpseMedicine.label>Трупная Медицина.</CorpseMedicine.label>
   <CorpseMedicine.description>Разблокируйте медицинские эксперименты и выкачивание крови из тела человека.</CorpseMedicine.description>
-
   <CorpseAntisepsis.label>Труп Антисептики.</CorpseAntisepsis.label>
   <CorpseAntisepsis.description>Разблокируйте производство антисептического трупа, наполненного травами и обернутого тканями, которые могут оставаться против гниения и обезвоживания.</CorpseAntisepsis.description>
-
   <BrainScanning.label>сканирование мозга.</BrainScanning.label>
   <BrainScanning.description>Сканируйте мозг трупа и перепечатайте его память и знания вместе с программами ИИ на маленький цифровой диск.Эта работа требует ловких манипуляций и умного интеллекта.</BrainScanning.description>
-
   <CorpseServers.label>Серверы Трупов.</CorpseServers.label>
   <CorpseServers.description>Используйте механическую систему и запрограммированный диск памяти, чтобы превратить антисептический труп в основного функционального робота.Они могут быть недостаточно умны, чтобы закончить работу в одиночку, но являются очень полезными помощниками с хорошим пониманием приказов.Разблокировать удобный труп и труп мясника.</CorpseServers.description>
-
   <IntelligentServers.label>Интеллектуальные Серверы.</IntelligentServers.label>
   <IntelligentServers.description>Используя память от самых высокоразвитых мозгов и программы от лучших программистов,эти полу-труп-полу-роботы серверы могут использовать некоторые машины сами по себе и даже принимать участие в некоторых работах, требующих высокого интеллекта.Разблокируйте монитор смерти и лампочку вдохновения.</IntelligentServers.description>
-
   <PsychicInterference.label>Психическое Вмешательство.</PsychicInterference.label>
   <PsychicInterference.description>Отправляйте выбранные или смешанные воспоминания, отсканированные у мертвых, в мозг живых существ с целью контроля эмоций или психического повреждения. Разблокируйте производство психических копий и импульсов в Фабричном стенде.</PsychicInterference.description>
-
   <MemoryModification.label>Модификация памяти.</MemoryModification.label>
   <MemoryModification.description>Сплайсинг, удаление и ремикс.Человеческие воспоминания могут быть изменены и даже созданы.Но это не так просто, чтобы избежать конфликтов и отлаживать истории состава.Откройте репликацию диска памяти и продукции провода утехи в стенде изготовления.</MemoryModification.description>
-
   <KnowledgeInfusion.label>Инфузия Знаний.</KnowledgeInfusion.label>
   <KnowledgeInfusion.description>С извлечением и классификацией конкретных знаний в море воспоминаний, передача знаний будет возможна.Ученые В RimWorld могут нуждаться в дополнительной технологической поддержке со стороны внешних миров или ИИ.Открыть производство Нейро тренер меч сыворотки и тиражирование технологий проф суб личной гигиены в скамье изготовлений.</KnowledgeInfusion.description>
-
-
   <MechaniteTraining.label>Механическая Подготовка.</MechaniteTraining.label>
   <MechaniteTraining.description>Мы все знаем, что Люциферий может фиксировать тела из-за нанотехнологических роботов, называемых "Механитом" внутри. Соединяя их с интеллектом и вводя их в человеческое тело, мы можем выяснить их рабочий механизм. Но для безопасности нам лучше всего связать их с чистым сознанием, а не с живым мозгом.Интеллект на диске памяти будет квалифицирован. И мы не должны применять эту технологию на живых людях, пока она не созрела.</MechaniteTraining.description>
-
   <MechaniteApplication.label>Приложение механитов.</MechaniteApplication.label>
   <MechaniteApplication.description>Перепрограммируйте механитов, чтобы сделать их более функциональными и управляемыми. Теперь мы можем произвести вашу собственную сыворотку мех которую можно приложить на живого человека безопасно.</MechaniteApplication.description>
-
-
 </LanguageData>

@@ -1,49 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- CorpseServer series -->
-
   <HandyCorpse.label>Удобный Труп</HandyCorpse.label>
   <HandyCorpse.description>Используйте механическую систему, чтобы превратить труп в полуавтоматического мастера.Только достаточно умный поможет работникам, вручением инструментов или материалов повторно.(Макс 2) </HandyCorpse.description>
   <HandyCorpse_Blueprint.label>Удобный труп (чертеж)</HandyCorpse_Blueprint.label>
   <HandyCorpse_Blueprint_Install.label>Удобный труп (чертеж)</HandyCorpse_Blueprint_Install.label>
   <HandyCorpse_Frame.label>Удобный труп (здание)</HandyCorpse_Frame.label>
   <HandyCorpse_Frame.description>Используйте механическую систему, чтобы превратить труп в полуавтоматического мастера.Только достаточно умный поможет работникам, вручением инструментов или материалов повторно.(Макс 2)</HandyCorpse_Frame.description>
-
   <CorpseButcher.label>Труп Мясника</CorpseButcher.label>
   <CorpseButcher.description>Эти полу-труп-полу-роботы злятся на то, что они мертвы, мы можем использовать их, позволяя им вырезать некоторые мертвые тела и овощи.Они успокаиваются, а мы получаем еду.(Максимум 1)</CorpseButcher.description>
   <CorpseButcher_Blueprint.label>Мясник трупа (чертеж)</CorpseButcher_Blueprint.label>
   <CorpseButcher_Blueprint_Install.label>Труп мясника (чертеж)</CorpseButcher_Blueprint_Install.label>
   <CorpseButcher_Frame.label>Труп мясника (строительство)</CorpseButcher_Frame.label>
   <CorpseButcher_Frame.description>Эти полу-труп-полу-роботы злятся на то, что они мертвы, мы можем использовать их, позволяя им вырезать некоторые мертвые тела и овощи.Они успокаиваются, а мы получаем еду.(Максимум 1)</CorpseButcher_Frame.description>
-
   <MeatGrinderDCS.label>мясорубка</MeatGrinderDCS.label>
   <MeatGrinderDCS.description>Труп робота, который работает с мясорубками.Сможет форсировать работая скорость таблицы мясника.Когда-нибудь этот простак случайно измельчит его пальцы в мясо.Но не беспокойтесь об этом, они тоже мясо.(Максимум 1)</MeatGrinderDCS.description>
   <MeatGrinderDCS_Blueprint.label>Мясорубка (чертеж)</MeatGrinderDCS_Blueprint.label>
   <MeatGrinderDCS_Blueprint_Install.label>Мясорубка (чертеж)</MeatGrinderDCS_Blueprint_Install.label>
   <MeatGrinderDCS_Frame.label>Мясорубка (здание)</MeatGrinderDCS_Frame.label>
   <MeatGrinderDCS_Frame.description>Труп роботник, который работает с мясорубками.Сможет форсировать работая скорость таблицы мясника.Когда-нибудь этот простак случайно измельчит его пальцы в мясо.Но не беспокойтесь об этом, они тоже мясо.(Максимум 1)</MeatGrinderDCS_Frame.description>
-
   <StoneSawerDCS.label>Камене пильщик</StoneSawerDCS.label>
   <StoneSawerDCS.description>Труп роботник, который работает с камнерезным станком.Может повысить скорость работы камнерезного стола.Когда-нибудь этот простак случайно отпилит себе пальцы.Но не волнуйтесь об этом, это не ваши палецы.(Максимум 1)</StoneSawerDCS.description>
   <StoneSawerDCS_Blueprint.label>Камене пильщик(чертеж)</StoneSawerDCS_Blueprint.label>
   <StoneSawerDCS_Blueprint_Install.label>Камене пильщик(чертеж)</StoneSawerDCS_Blueprint_Install.label>
   <StoneSawerDCS_Frame.label>Камене пильщик(здание)</StoneSawerDCS_Frame.label>
   <StoneSawerDCS_Frame.description>Труп роботник, который работает с камнерезным станком.Может повысить скорость работы камнерезного стола.Когда-нибудь этот простак случайно отпилит себе пальцы.Но не волнуйтесь об этом, это не вашы палецы.(Максимум 1)</StoneSawerDCS_Frame.description>
-
   <InspirationBulb.label>Лампа вдохновения</InspirationBulb.label>
   <InspirationBulb.description>Мы все знаем,что когда люди получают идеи, всегда есть греховные лампочки над их головами.Не только может шарик воодушевленности обеспечить свет, но также предложить бафф для исследования.(Макс 2)</InspirationBulb.description>
   <InspirationBulb_Blueprint.label>Шарик воодушевленности (светокопия)</InspirationBulb_Blueprint.label>
   <InspirationBulb_Blueprint_Install.label>Шарик воодушевленности (светокопия)</InspirationBulb_Blueprint_Install.label>
   <InspirationBulb_Frame.label>Лампа вдохновения (здание)</InspirationBulb_Frame.label>
   <InspirationBulb_Frame.description>Мы все знаем,что когда люди получают идеи, всегда есть греховные лампочки над их головами.Не только может шарик воодушевленности обеспечить свет, но также предложить бафф для исследования.(Макс 2)</InspirationBulb_Frame.description>
-
   <DeathMonitor.label>Монитор Смерти</DeathMonitor.label>
   <DeathMonitor.description>Никто не может понять смерть лучше, чем тот, кто действительно пережил ее.Этот умный труп может чувствовать запах смерти и контролировать жизненные показатели пациентов днем и ночью.он также поможет с уходом и первой помощью, если это необходимо.(Максимум 1)</DeathMonitor.description>
   <DeathMonitor_Blueprint.label>Монитор смерти (чертеж)</DeathMonitor_Blueprint.label>
   <DeathMonitor_Blueprint_Install.label>Монитор смерти (чертеж)</DeathMonitor_Blueprint_Install.label>
   <DeathMonitor_Frame.label>Монитор смерти (строительство)</DeathMonitor_Frame.label>
   <DeathMonitor_Frame.description>Никто не может понять смерть лучше, чем тот, кто действительно пережил ее.Этот умный труп может чувствовать запах смерти и контролировать жизненные показатели пациентов днем и ночью.он также поможет с уходом и первой помощью, если это необходимо.</DeathMonitor_Frame.description>
-
-
 </LanguageData>

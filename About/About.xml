@@ -1,56 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Dead Can Serve</name>
-    <supportedVersions>
-        <li>1.0</li>
-		<li>1.1</li>
-		<li>1.2</li>
-    </supportedVersions>
-	<packageId>Ogliss.CaptainSnafu.DeadCanServe</packageId>
-	<author>CapatinSnafu</author>
-	<url></url>
-	<description>
+  <name>Dead Can Serve (Continued)</name>
+  <packageId>Mlie.DeadCanServe</packageId>
+  <author>CapatinSnafu</author>
+  <url>https://github.com/emipa606/DeadCanServe</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of CapatinSnafus mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=1735705268
+Based on Ogliss 1.2 update
+https://steamcommunity.com/sharedfiles/filedetails/?id=2018891555
+
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+
+[table]
+    [tr]
+        [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+        [td][url=https://github.com/emipa606/DeadCanServe][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+[/table]
 	
-Mod description:
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+[h1]IMPROTANT :[/h1]
+If you are a 1.1 player , please use this version :
+https://steamcommunity.com/sharedfiles/filedetails/?id=2018891555
+I am not currently maintaining this mod, i have quit playing Rim World :(
+
+=====================================
+They born to labor and die with serving.
+
+Death is not the end.
+
+
+[h1]Mod description:[/h1]
 This mod adds several ways to utilize the corpses. Dead coloniest can still save,feed ，teach or protect the living one.
-Should be balanced with the vanilla game and compatible with any other mods. Safe with existing savefile.
+Should be balanced with the vanilla game and compatible with any other mods. Safe with existing savefile. 
 
-New TechTree:
-This tech tree contains every parts of this mod. If you don't like anything in this mod, you can just not research it and it won't show up in your game.
+[h1]New TechTree:[/h1]
+This tech tree contains every parts of this mod. If you don&apos;t like anything in this mod, you can just not research it and it won&apos;t show up in your game.
 
-New Items:
-ProteinPowder: produced from humanlike or animal corpse in Refinery. High nutrition packaged food, can avoid the cannibal penalty because nobody will associate it with human's body.
-BloodBag: drawn from humanlike corpse in DrugLab, can be used as medicine.
-AntisepticCorpse: processed in DrugLab and ButcherTable. Can be stacked and used for buildings.
-CorpseFertilizer: processed in Refinery. Then you can use these bloody fertilizer to build a new terrain: blood soil(175%fertility).
-LargeMaggots: These squirming worms may be disgusting, but contain more proteins than mammal's meats.Great for feeding animals. Breeded in Maggots Breeder.
-ProgrammedMemoryDisk: Scan the corpse's brain and reprint its memory and knowledge along with AI programs into a small digital disk. Made in Fabrication Bench.
-TrainedMechanites: Can extract nano robots in the Luciferium and train them with dead man's mind in a corpse.
+[h1]New Items:[/h1]
+[olist]
 
-New Jobs:
-Breed Maggots with humanlike or animal corpse in MaggotsBreeder instantly.
-Produce ProteinPowder with LargeMaggots in Refinery.
-Produce Chemfuel with humanlike or animal corpse in Refinery.
-Produce vanilla Psychic Artifacts with Programmed Memory Disk in Fabrication Bench. (Insanity Lance,Shock Lance,Soothe Pulser,Animal Pulser)
-Produce Neurotrainer MechSerum and Techprof Subpersona Core with Programmed Memory Disk in Fabrication Bench.
-Produce Joywire with Programmed Memory Disk in Fabrication Bench.
-Replicate Programmed Memory Disk in Fabrication Bench.
-Experiment on corpse to train Medicine skill in DrugLab.
-Can use Mechanites to form(fake) AntisepticCorpses with RawMeats.
-Can use Mechanites to do an Advanced Anatomy to harvest organs
-Can use Mechanites to produce Healer \ Resurrector \ Neurotrainer Mech Serum
+[*][b]ProteinPowder:[/b] produced from humanlike or animal corpse in Refinery. High nutrition packaged food, can avoid the cannibal penalty because nobody will associate it with human&apos;s body.
+[*][b]BloodBag:[/b] drawn from humanlike corpse in DrugLab, can be used as medicine. 
+[*][b]AntisepticCorpse:[/b] processed in DrugLab and ButcherTable. Can be stacked and used for buildings.
+[*][b]CorpseFertilizer:[/b] processed in Refinery. Then you can use these bloody fertilizer to build a new terrain: [b]blood soil[/b](175%fertility). 
+[*][b]LargeMaggots:[/b] These squirming worms may be disgusting, but contain more proteins than mammal&apos;s meats.Great for feeding animals. Breeded in Maggots Breeder.
+[*][b]ProgrammedMemoryDisk: [/b] Scan the corpse&apos;s brain and reprint its memory and knowledge along with AI programs into a small digital disk. Made in Fabrication Bench.
+[*][b]TrainedMechanites: [/b] Can extract nano robots in the Luciferium and train them with dead man&apos;s mind in a corpse.
+[/olist]
 
-New Buildings:
-Crucifix: The most lifelike sculpture can only be made out of real life.If you let your spawns hide behind it,your opponents will just wonder which bodies they should aim at. Made in SculpturingBench.
-PlanterCoffin: A corpse is the best source of nutrition for plants and the coffin is also perfect to be the planting box.With 214% fertility.
-CorpseIrrigator: A power-consuming planter-box with 333% fertility. With a corpse status which can pee the nutrition liquid periodically in adjustable direction.
-MaggotsBreeder: Will slowly generate LargeMaggots as kibbles.
-CorpseServers Series: Use ProgrammedMemoryDisk to turn an AntisepticCorpse into a half-corpse-half-robot servers !! They may not intelligent enough to finish the job by themselves but can assist your pawns and improve the working efficiency.
-	
-	===================================
-	
-	996,ICU. 
+[h1]New Jobs:[/h1]
+[olist]
+[*]Breed [b]Maggots[/b] with humanlike or animal corpse in MaggotsBreeder instantly.
+[*]Produce [b]ProteinPowder[/b] with LargeMaggots in Refinery.
+[*]Produce [b]Chemfuel[/b] with humanlike or animal corpse in Refinery.
+[*]Produce [b]vanilla Psychic Artifacts[/b] with Programmed Memory Disk in Fabrication Bench. (Insanity Lance,Shock Lance,Soothe Pulser,Animal Pulser)
+[*]Produce [b]Neurotrainer MechSerum[/b]  and  [b]Techprof Subpersona Core[/b] with Programmed Memory Disk in Fabrication Bench.
+[*]Produce [b]Joywire[/b] with Programmed Memory Disk in Fabrication Bench.
+[*]Replicate [b]Programmed Memory Disk[/b] in Fabrication Bench.
+[*]Experiment on corpse to train Medicine skill in DrugLab.
+[*]Can use Mechanites to form(fake) AntisepticCorpses with RawMeats.
+[*]Can use Mechanites to do an Advanced Anatomy to harvest organs
+[*]Can use Mechanites to produce Healer \ Resurrector \ Neurotrainer Mech Serum
+[/olist]
 
-	
-	</description>
+[h1]New Buildings:[/h1]
+[olist]
+[*][b]Crucifix:[/b] The most lifelike sculpture can only be made out of real life.If you let your spawns hide behind it,your opponents will just wonder which bodies they should aim at. Made in SculpturingBench.
+[*][b]PlanterCoffin:[/b] A corpse is the best source of nutrition for plants and the coffin is also perfect to be the planting box.With 214% fertility.
+[*][b]CorpseIrrigator:[/b] A power-consuming planter-box with 333% fertility. With a corpse status which can pee the nutrition liquid periodically in adjustable direction.
+[*][b]MaggotsBreeder:[/b] Will slowly generate LargeMaggots as kibbles.
+[*][b]CorpseServers Series:[/b] Use ProgrammedMemoryDisk to turn an AntisepticCorpse into a half-corpse-half-robot servers !! They may not intelligent enough to finish the job by themselves but can assist your pawns and improve the working efficiency. 
+[/olist]
+
+======================================
+
+[h1]Language:[/h1]
+[list]
+[*]English(by me)
+[*]Chinese中文汉化(by me)
+[*]Russian (by PH+教父)
+[*]If you like this mod, welcome to translate it in your mother language.
+[/list]
+
+==================================
+
+[h1]More version and Submod:[/h1]
+
+[list]
+[*]If you are a medieval mod player, use this medieval version:
+https://steamcommunity.com/sharedfiles/filedetails/?id=1776511809
+
+[*]If you are also playing with Rim of Madness - Vampires ,you can try this submod:
+https://steamcommunity.com/sharedfiles/filedetails/?edit=true&amp;id=1779678957
+
+[*]If you want to use the memories from the death to do more cool psychic control ,try this :
+https://steamcommunity.com/sharedfiles/filedetails/?id=1793714347
+
+[*]If you want to use blood bag to do transfusion to cure blood loss,try this:
+https://steamcommunity.com/sharedfiles/filedetails/?id=1793761297
+
+[*]If you want to build a real robot sever which has real human&apos;s minds inside, try this :
+https://steamcommunity.com/sharedfiles/filedetails/?edit=true&amp;id=1897365776
+[/list]
+============================
+
+[b]Join me in our bodies party ![/b]
+I have many ideas for these dead buddies, but i am a very new modder in this game, and i am very bad at drawing. If any coders or artists are willing to join me ,that will be great !
+
+
+=============================
+
+996,ICU.  Hope all the bad bosses in reality meet their ends in these same ways.
+
+===============================
+
+[h1]If you like this, give me a rate![/h1]
+
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+

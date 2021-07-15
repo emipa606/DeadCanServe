@@ -1,158 +1,138 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Patch>
-
-
-	<Operation Class="PatchOperationConditional">
-		<xpath>*/ThingDef[defName = "SimpleResearchBench"]/comps</xpath>
-		<nomatch Class="PatchOperationAdd">
-			<xpath>*/ThingDef[defName = "SimpleResearchBench"]</xpath>
-			<value>
-				<comps>
-					<li Class="CompProperties_AffectedByFacilities">
-						<linkableFacilities>
-							<li>InspirationBulb</li>
-						</linkableFacilities>
-					</li>
-				</comps>
-			</value>
-		</nomatch>
-		<match Class="PatchOperationAdd">
-			<xpath>*/ThingDef[defName = "SimpleResearchBench"]/comps/li[1]/linkableFacilities</xpath>
-			<value>
-				<li>InspirationBulb</li>
-			</value>
-		</match>
-	</Operation>
-
-	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "HiTechResearchBench"]/comps/li[3]/linkableFacilities</xpath>
-		<value>
-			<li>InspirationBulb</li>
-		</value>
-	</Operation>
-	
-	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "TableSculpting"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
-		<value>
-			<li>HandyCorpse</li>
-		</value>
-	</Operation>
-
-	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "HandTailoringBench"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
-		<value>
-			<li>HandyCorpse</li>
-		</value>
-	</Operation>
-
-	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "ElectricTailoringBench"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
-		<value>
-			<li>HandyCorpse</li>
-		</value>
-	</Operation>
-
-	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "FueledSmithy"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
-		<value>
-			<li>HandyCorpse</li>
-		</value>
-	</Operation>
-
-	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "ElectricSmithy"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
-		<value>
-			<li>HandyCorpse</li>
-		</value>
-	</Operation>
-
-	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "TableMachining"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
-		<value>
-			<li>HandyCorpse</li>
-		</value>
-	</Operation>
-
-	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "TableStonecutter"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
-		<value>
-			<li>HandyCorpse</li>
-		</value>
-	</Operation>
-	
-		<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "DrugLab"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
-		<value>
-			<li>HandyCorpse</li>
-		</value>
-	</Operation>
-	
-	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "FabricationBench"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
-		<value>
-			<li>HandyCorpse</li>
-		</value>
-	</Operation>
-	
-	<Operation Class="PatchOperationInsert">
-		<xpath>*/ThingDef[defName = "BiofuelRefinery"]/comps/li</xpath>
-		<value>
-			<li Class="CompProperties_AffectedByFacilities">
-				<linkableFacilities>
-					<li>HandyCorpse</li>
-				</linkableFacilities>
-			</li>
-		</value>
-	</Operation>
-
-	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "HospitalBed"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
-		<value>
-			<li>DeathMonitor</li>
-		</value>
-	</Operation>
-
-		<Operation Class="PatchOperationInsert">
-		<xpath>*/ThingDef[defName = "FueledStove"]/comps/li</xpath>
-		<value>
-			<li Class="CompProperties_AffectedByFacilities">
-				<linkableFacilities>
-					<li>CorpseButcher</li>
-				</linkableFacilities>
-			</li>
-		</value>
-	</Operation>
-
-	<Operation Class="PatchOperationInsert">
-		<xpath>*/ThingDef[defName = "ElectricStove"]/comps/li</xpath>
-		<value>
-			<li Class="CompProperties_AffectedByFacilities">
-				<linkableFacilities>
-					<li>CorpseButcher</li>
-				</linkableFacilities>
-			</li>
-		</value>
-	</Operation>
-	
-	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "TableButcher"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
-		<value>
-			<li>CorpseButcher</li>
-		</value>
-	</Operation>
-	
-	<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "TableButcher"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
-		<value>
-			<li>MeatGrinderDCS</li>
-		</value>
-	</Operation>
-	
-		<Operation Class="PatchOperationAdd">
-		<xpath>*/ThingDef[defName = "TableStonecutter"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
-		<value>
-			<li>StoneSawerDCS</li>
-		</value>
-	</Operation>
-	
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName = "SimpleResearchBench"]/comps</xpath>
+    <nomatch Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName = "SimpleResearchBench"]</xpath>
+      <value>
+        <comps>
+          <li Class="CompProperties_AffectedByFacilities">
+            <linkableFacilities>
+              <li>InspirationBulb</li>
+            </linkableFacilities>
+          </li>
+        </comps>
+      </value>
+    </nomatch>
+    <match Class="PatchOperationAdd">
+      <xpath>Defs/ThingDef[defName = "SimpleResearchBench"]/comps/li[1]/linkableFacilities</xpath>
+      <value>
+        <li>InspirationBulb</li>
+      </value>
+    </match>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "HiTechResearchBench"]/comps/li[3]/linkableFacilities</xpath>
+    <value>
+      <li>InspirationBulb</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "TableSculpting"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>HandyCorpse</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "HandTailoringBench"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>HandyCorpse</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "ElectricTailoringBench"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>HandyCorpse</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "FueledSmithy"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>HandyCorpse</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "ElectricSmithy"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>HandyCorpse</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "TableMachining"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>HandyCorpse</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "TableStonecutter"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>HandyCorpse</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "DrugLab"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>HandyCorpse</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "FabricationBench"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>HandyCorpse</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <xpath>Defs/ThingDef[defName = "BiofuelRefinery"]/comps/li</xpath>
+    <value>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>HandyCorpse</li>
+        </linkableFacilities>
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "HospitalBed"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>DeathMonitor</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <xpath>Defs/ThingDef[defName = "FueledStove"]/comps/li</xpath>
+    <value>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>CorpseButcher</li>
+        </linkableFacilities>
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationInsert">
+    <xpath>Defs/ThingDef[defName = "ElectricStove"]/comps/li</xpath>
+    <value>
+      <li Class="CompProperties_AffectedByFacilities">
+        <linkableFacilities>
+          <li>CorpseButcher</li>
+        </linkableFacilities>
+      </li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "TableButcher"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>CorpseButcher</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "TableButcher"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>MeatGrinderDCS</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>Defs/ThingDef[defName = "TableStonecutter"]/comps/li[@Class="CompProperties_AffectedByFacilities"]/linkableFacilities</xpath>
+    <value>
+      <li>StoneSawerDCS</li>
+    </value>
+  </Operation>
 </Patch>

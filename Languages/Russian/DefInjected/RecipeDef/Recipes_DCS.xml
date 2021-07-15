@@ -1,35 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <MakeChemfuelFromCorpse.label>очистить химтопливо от трупа
 </MakeChemfuelFromCorpse.label>
   <MakeChemfuelFromCorpse.description>Стань свидетелем последнего этапа и света жизни.
 </MakeChemfuelFromCorpse.description>
   <MakeChemfuelFromCorpse.jobString>Очистка Химтоплива от трупа
 </MakeChemfuelFromCorpse.jobString>
-
   <MakeFertilizerFromCorpse.label>сделать удобрение из трупа
 </MakeFertilizerFromCorpse.label>
   <MakeFertilizerFromCorpse.description>Измельчите мясо и поместите его в процесс брожения.Теперь мы получаем кровавое удобрение, которое полно питательных веществ
 </MakeFertilizerFromCorpse.description>
   <MakeFertilizerFromCorpse.jobString>Очистка удобрения от трупа.
 </MakeFertilizerFromCorpse.jobString>
-
   <BreedMaggotsWithCorpse.label>разводить опарышей</BreedMaggotsWithCorpse.label>
   <BreedMaggotsWithCorpse.description>Личинки в Rimworld могут расти и размножаться с невероятной эффективностью, если они получают достаточно трупов.Они не заботятся о свежих или гнилых, просто не дают им антисептика.</BreedMaggotsWithCorpse.description>
   <BreedMaggotsWithCorpse.jobString>Разведение личинок с трупом.</BreedMaggotsWithCorpse.jobString>
-
   <MakeProteinPowderFromCorpse.label>порошок протеина продукта с трупом
 </MakeProteinPowderFromCorpse.label>
   <MakeProteinPowderFromCorpse.description>Не волнуйтесь, никто не узнает, что он на самом деле ест
 </MakeProteinPowderFromCorpse.description>
   <MakeProteinPowderFromCorpse.jobString>Производства Протеиновых Порошков 
 </MakeProteinPowderFromCorpse.jobString>
-
   <MakeProteinPowderFromMaggots.label>сделайте протеиновый порошок из личинок</MakeProteinPowderFromMaggots.label>
   <MakeProteinPowderFromMaggots.description>Не волнуйтесь, никто не узнает, что он на самом деле ест.</MakeProteinPowderFromMaggots.description>
   <MakeProteinPowderFromMaggots.jobString>Производить Порошок Протеина.</MakeProteinPowderFromMaggots.jobString>
-
-
-
 </LanguageData>

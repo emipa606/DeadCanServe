@@ -1,49 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- CorpseServer series -->
-
   <HandyCorpse.label>尸侍杂务工</HandyCorpse.label>
   <HandyCorpse.description>将一具防腐尸体机械改造成一款半自动杂务工。它的智能程度只足够于诸如递送工具、抬举材料等重复性工作。（最大有效数：2）</HandyCorpse.description>
   <HandyCorpse_Blueprint.label>尸侍杂务工(蓝图)</HandyCorpse_Blueprint.label>
   <HandyCorpse_Blueprint_Install.label>尸侍杂务工(蓝图)</HandyCorpse_Blueprint_Install.label>
   <HandyCorpse_Frame.label>尸侍杂务工(建造中)</HandyCorpse_Frame.label>
   <HandyCorpse_Frame.description>将一具防腐尸体机械改造成一款半自动杂务工。它的智能程度只足够于诸如递送工具、抬举材料等重复性工作。（最大有效数：2）</HandyCorpse_Frame.description>
-
   <CorpseButcher.label>尸侍屠夫</CorpseButcher.label>
   <CorpseButcher.description>某些半尸体半机器的家伙们总是对自身的死亡感到无能的愤怒。可以把动物尸体和蔬菜们交给它们料理，它们在乱砍乱切中得到发泄，而我们得到了虽然不好看但也能吃的食材。(最大有效数：1)</CorpseButcher.description>
   <CorpseButcher_Blueprint.label>尸侍屠夫 (蓝图)</CorpseButcher_Blueprint.label>
   <CorpseButcher_Blueprint_Install.label>尸侍屠夫 (蓝图)</CorpseButcher_Blueprint_Install.label>
   <CorpseButcher_Frame.label>尸侍屠夫 (建造中)</CorpseButcher_Frame.label>
   <CorpseButcher_Frame.description>某些半尸体半机器的家伙们总是对自身的死亡感到无能的愤怒。可以把动物尸体和蔬菜们交给它们料理，它们在乱砍乱切中得到发泄，而我们得到了虽然不好看但也能吃的食材。(最大有效数：1)</CorpseButcher_Frame.description>
-
   <MeatGrinderDCS.label>尸侍碎肉机</MeatGrinderDCS.label>
   <MeatGrinderDCS.description>一个会使用碎肉机的尸侍屠夫，可以极大地增强屠宰台的工作效率。有时候它会不小心把自己的手指也碾进了碎肉机里，但不用担心，手指也是能吃的肉嘛。(最大有效数：1)</MeatGrinderDCS.description>
   <MeatGrinderDCS_Blueprint.label>尸侍碎肉机(蓝图)</MeatGrinderDCS_Blueprint.label>
   <MeatGrinderDCS_Blueprint_Install.label>尸侍碎肉机(蓝图)</MeatGrinderDCS_Blueprint_Install.label>
   <MeatGrinderDCS_Frame.label>尸侍碎肉机(建造中)</MeatGrinderDCS_Frame.label>
   <MeatGrinderDCS_Frame.description>一个会使用碎肉机的尸侍屠夫，可以极大地增强屠宰台的工作效率。有时候它会不小心把自己的手指也碾进了碎肉机里，但不用担心，手指也是能吃的肉嘛。(最大有效数：1)</MeatGrinderDCS_Frame.description>
-
   <StoneSawerDCS.label>尸侍锯石机</StoneSawerDCS.label>
   <StoneSawerDCS.description>一个会使用石锯的尸侍，可以极大地增强切石台的工作效率。有时它会不小心把自己的手指也一并锯掉，但没关系，反正不是你的手指。(最大有效数：1)</StoneSawerDCS.description>
   <StoneSawerDCS_Blueprint.label>尸侍锯石机(蓝图)</StoneSawerDCS_Blueprint.label>
   <StoneSawerDCS_Blueprint_Install.label>尸侍锯石机(蓝图)</StoneSawerDCS_Blueprint_Install.label>
   <StoneSawerDCS_Frame.label>尸侍锯石机(建造中)</StoneSawerDCS_Frame.label>
   <StoneSawerDCS_Frame.description>一个会使用石锯的尸侍，可以极大地增强切石台的工作效率。有时它会不小心把自己的手指也一并锯掉，但没关系，反正不是你的手指。(最大有效数：1)</StoneSawerDCS_Frame.description>
-
   <InspirationBulb.label>尸侍灵感灯</InspirationBulb.label>
   <InspirationBulb.description>我们都知道，人们一旦有什么点子，他们的脑袋上就会出现一个闪亮的灯泡。这款尸侍灵感灯不但能够提供光亮，还能帮助查阅资料，在死者的记忆中搜寻知识，促进科技研发。(最大有效数：2)</InspirationBulb.description>
   <InspirationBulb_Blueprint.label>尸侍灵感灯 (蓝图)</InspirationBulb_Blueprint.label>
   <InspirationBulb_Blueprint_Install.label>尸侍灵感灯 (蓝图)</InspirationBulb_Blueprint_Install.label>
   <InspirationBulb_Frame.label>尸侍灵感灯 (建造中)</InspirationBulb_Frame.label>
   <InspirationBulb_Frame.description>我们都知道，人们一旦有什么点子，他们的脑袋上就会出现一个闪亮的灯泡。这款尸侍灵感灯不但能够提供光亮，还能帮助查阅资料，在死者的记忆中搜寻知识，促进科技研发。(最大有效数：2)</InspirationBulb_Frame.description>
-
   <DeathMonitor.label>尸侍监视仪</DeathMonitor.label>
   <DeathMonitor.description>没有任何人能比真正地经历过死亡的尸侍更了解死亡。这款智能的尸侍能感应到死亡的气息，日夜监视着病患的生命体征，在必要时候也能胜任看护和急救的工作。(最大有效数：1)</DeathMonitor.description>
   <DeathMonitor_Blueprint.label>尸侍监视仪 (蓝图)</DeathMonitor_Blueprint.label>
   <DeathMonitor_Blueprint_Install.label>尸侍监视仪 (蓝图)</DeathMonitor_Blueprint_Install.label>
   <DeathMonitor_Frame.label>尸侍监视仪 (建造中)</DeathMonitor_Frame.label>
   <DeathMonitor_Frame.description>没有任何人能比真正地经历过死亡的尸侍更了解死亡。这款智能的尸侍能感应到死亡的气息，日夜监视着病患的生命体征，在必要时候也能胜任看护和急救的工作。(最大有效数：1)</DeathMonitor_Frame.description>
-
-
 </LanguageData>

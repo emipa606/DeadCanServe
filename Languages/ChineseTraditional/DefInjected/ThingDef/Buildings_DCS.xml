@@ -1,46 +1,31 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- 棺材种植箱 -->
-
   <PlanterCoffin.label>棺材种植箱(横)</PlanterCoffin.label>
   <PlanterCoffin.description>尸体是植物最丰腴的营养来源，而棺材也恰好能用作种植箱。肥沃度214%。</PlanterCoffin.description>
   <PlanterCoffin_Blueprint.label>棺材种植箱(蓝图)</PlanterCoffin_Blueprint.label>
   <PlanterCoffin_Frame.label>棺材种植箱(建造中)</PlanterCoffin_Frame.label>
   <PlanterCoffin_Frame.description>尸体是植物最丰腴的营养来源，而棺材也恰好能用作种植箱。肥沃度214%。</PlanterCoffin_Frame.description>
-
   <VerPlanterCoffin.label>棺材种植箱(竖)</VerPlanterCoffin.label>
   <VerPlanterCoffin.description>尸体是植物最丰腴的营养来源，而棺材也恰好能用作种植箱。肥沃度214%。</VerPlanterCoffin.description>
   <VerPlanterCoffin_Blueprint.label>棺材种植箱(蓝图)</VerPlanterCoffin_Blueprint.label>
   <VerPlanterCoffin_Frame.label>棺材种植箱(建造中)</VerPlanterCoffin_Frame.label>
   <VerPlanterCoffin_Frame.description>尸体是植物最丰腴的营养来源，而棺材也恰好能用作种植箱。肥沃度214%。</VerPlanterCoffin_Frame.description>
-
-
   <!-- 灌溉 -->
-
   <CorpseIrrigator.label>尸像灌溉器</CorpseIrrigator.label>
   <CorpseIrrigator.description>首先，将尸体化肥溶解到水箱中，再链接到一具可以定时定点排泄出营养液的尸体雕像，这就完成了一座既艺术又实用的半自动灌溉器。肥沃度333%。</CorpseIrrigator.description>
   <CorpseIrrigator_Blueprint.label>尸像灌溉器(蓝图)</CorpseIrrigator_Blueprint.label>
   <CorpseIrrigator_Frame.label>尸像灌溉器(建造中)</CorpseIrrigator_Frame.label>
   <CorpseIrrigator_Frame.description>首先，将尸体化肥溶解到水箱中，再链接到一具可以定时定点排泄出营养液的尸体雕像，这就完成了一座既艺术又实用的半自动灌溉器。肥沃度333%。</CorpseIrrigator_Frame.description>
-
-
   <!-- 蛆虫培育 -->
-
   <MaggotsBreeder.label>蛆虫繁殖场</MaggotsBreeder.label>
   <MaggotsBreeder.description>这些腐食蛆虫可以惊人的效率快速繁育和成长，每隔一段时间便会自动生成若干蛆虫。只留给它们防腐尸体，可有效控制它们的胃口，以免过快地耗尽食物而全体饿死。</MaggotsBreeder.description>
   <MaggotsBreeder_Blueprint.label>蛆虫繁殖场(蓝图)</MaggotsBreeder_Blueprint.label>
   <MaggotsBreeder_Frame.label>蛆虫繁殖场(建造中)</MaggotsBreeder_Frame.label>
   <MaggotsBreeder_Frame.description>这些腐食蛆虫可以惊人的效率快速繁育和成长。只留给它们防腐尸体，可有效控制它们的胃口，以免过快地耗尽食物而全体饿死。</MaggotsBreeder_Frame.description>
-
-
   <!-- Sculptures 十字架 -->
-
   <Crucifix_DCS.label>十字架</Crucifix_DCS.label>
   <Crucifix_DCS.description>最逼真的雕塑只能由真实的原型打造。也能作为掩体，让小人躲藏在后面，以假乱真。</Crucifix_DCS.description>
   <Crucifix_DCS_Blueprint_Install.label>十字架（蓝图）</Crucifix_DCS_Blueprint_Install.label>
-
-
   <!-- Sculptures -->
-
 </LanguageData>

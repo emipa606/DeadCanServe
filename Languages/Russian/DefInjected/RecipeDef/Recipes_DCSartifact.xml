@@ -1,38 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <ScanCorpseBrain.label>Сканирование мозга трупа</ScanCorpseBrain.label>
   <ScanCorpseBrain.description>Сканируйте мозг трупа и перепечатайте его память и знания вместе с программами ИИ на маленький цифровой диск. Эта работа требует ловких манипуляций и умного интеллекта.</ScanCorpseBrain.description>
   <ScanCorpseBrain.jobString>Сканирование мозга трупа.</ScanCorpseBrain.jobString>
-
   <ReplicateMemoryDisk.label>Повторить Воспоминания</ReplicateMemoryDisk.label>
   <ReplicateMemoryDisk.description>Объединение и ремикс памяти с других дисков для создания новой памяти.нелегко избежать конфликтов и отлаживать придуманные истории.</ReplicateMemoryDisk.description>
   <ReplicateMemoryDisk.jobString>Реплицирующий Диск Памяти</ReplicateMemoryDisk.jobString>
-
   <MakePsychicInsanityLanceDCS.label>Сделать Психическое Безумие Копье</MakePsychicInsanityLanceDCS.label>
   <MakePsychicInsanityLanceDCS.description>Чтобы сделать устройство, которое может посылать смешанные воспоминания от нескольких мертвых народов в мозг живого существа. Эти хаотические воспоминания определенно приведут объект к безумию</MakePsychicInsanityLanceDCS.description>
   <MakePsychicInsanityLanceDCS.jobString>Делая Психическое Безумие Копьем.</MakePsychicInsanityLanceDCS.jobString>
-
   <MakePsychicShockLanceDCS.label>Сделать Психический Шок Копье</MakePsychicShockLanceDCS.label>
   <MakePsychicShockLanceDCS.description>Чтобы сделать устройство, которое может посылать смешанные воспоминания от нескольких мертвых народов в мозг живого существа. Эти хаотические воспоминания приведут объект в состояние психического шока и, вероятно, вызовут повреждение мозга.</MakePsychicShockLanceDCS.description>
   <MakePsychicShockLanceDCS.jobString>Делая Психическое Безумие Копьем.</MakePsychicShockLanceDCS.jobString>
-
   <MakePsychicSoothePulserDCS.label>Сделать Психическое Успокоить Генератора</MakePsychicSoothePulserDCS.label>
   <MakePsychicSoothePulserDCS.description>Чтобы сделать устройство, которое может посылать выбранные мирные воспоминания от нескольких мертвых народов в мозг живых людей. Эти счастливые экзотические эмоции будут иметь положительный эффект, даже если они не знают, почему.</MakePsychicSoothePulserDCS.description>
   <MakePsychicSoothePulserDCS.jobString>Создание Психического Успокаивающего Пульсатора.</MakePsychicSoothePulserDCS.jobString>
-
   <MakePsychicAnimalPulserDCS.label>Сделать Психическое Животное Пульсатор</MakePsychicAnimalPulserDCS.label>
   <MakePsychicAnimalPulserDCS.description>Чтобы сделать устройство, которое сочетает в себе насильственные или охотничьи воспоминания от нескольких мертвых народов и может подключаться к мозгам животных.Эти испуганные и угрожаемые дикие животные будут охотиться на людей, прежде чем люди будут охотиться на них.
 </MakePsychicAnimalPulserDCS.description>
   <MakePsychicAnimalPulserDCS.jobString>Создание Психического Животного Пульсатора.</MakePsychicAnimalPulserDCS.jobString>
-
   <MakeTechprofSubpersonaCoreDCS.label>Сделать технологию проф Субличностное ядра</MakeTechprofSubpersonaCoreDCS.label>
   <MakeTechprofSubpersonaCoreDCS.description>Это невозможно, что люди в продукте Rimworld могут придумать такое продвинутое ИИ ядро.Но с одним, чтобы быть ссылкой и некоторые купленные технические поддержки,может быть, мы сможем объединить фрагменты знаний из памяти мертвых людей и сделать лоскутное одеяло новой технологии.</MakeTechprofSubpersonaCoreDCS.description>
   <MakeTechprofSubpersonaCoreDCS.jobString>Создание Технического Субличностного Ядра.</MakeTechprofSubpersonaCoreDCS.jobString>
-
   <MakeJoywireDCS.label>Сделать радость провода.</MakeJoywireDCS.label>
   <MakeJoywireDCS.description>Чтобы сделать имплантат мозга, который может постоянно выпускать некоторые модифицированные счастливые воспоминания от нескольких мертвых народов.</MakeJoywireDCS.description>
   <MakeJoywireDCS.jobString>Делая радость провода.</MakeJoywireDCS.jobString>
-
-
 </LanguageData>

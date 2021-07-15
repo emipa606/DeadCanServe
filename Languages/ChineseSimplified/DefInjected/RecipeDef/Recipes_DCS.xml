@@ -1,25 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <MakeChemfuelFromCorpse.label>用尸体精炼燃料</MakeChemfuelFromCorpse.label>
   <MakeChemfuelFromCorpse.description>来让生命最后一次燃料吧。</MakeChemfuelFromCorpse.description>
   <MakeChemfuelFromCorpse.jobString>正用尸体精炼化合燃料</MakeChemfuelFromCorpse.jobString>
-
   <MakeFertilizerFromCorpse.label>用尸体精炼化肥</MakeFertilizerFromCorpse.label>
   <MakeFertilizerFromCorpse.description>将尸体磨碎、发酵，将会是一等的化肥。</MakeFertilizerFromCorpse.description>
   <MakeFertilizerFromCorpse.jobString>用尸体精炼化肥</MakeFertilizerFromCorpse.jobString>
-
   <BreedMaggotsWithCorpse.label>用尸体饲养大蛆</BreedMaggotsWithCorpse.label>
   <BreedMaggotsWithCorpse.description>边缘世界的蛆虫能长得又大又快，它们可不介意食物到底是腐烂的还是新鲜。</BreedMaggotsWithCorpse.description>
   <BreedMaggotsWithCorpse.jobString>正用尸体饲养大蛆</BreedMaggotsWithCorpse.jobString>
-
   <MakeProteinPowderFromCorpse.label>用尸体精炼蛋白粉</MakeProteinPowderFromCorpse.label>
   <MakeProteinPowderFromCorpse.description>别担心，没人会察觉到这是用什么做的。</MakeProteinPowderFromCorpse.description>
   <MakeProteinPowderFromCorpse.jobString>用尸体精炼蛋白粉</MakeProteinPowderFromCorpse.jobString>
-
   <MakeProteinPowderFromMaggots.label>用大蛆精炼蛋白粉</MakeProteinPowderFromMaggots.label>
   <MakeProteinPowderFromMaggots.description>别担心，没人会察觉到这是用什么做的。</MakeProteinPowderFromMaggots.description>
   <MakeProteinPowderFromMaggots.jobString>用大蛆精炼蛋白粉</MakeProteinPowderFromMaggots.jobString>
-
-
 </LanguageData>

@@ -1,15 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- 棺材种植箱 -->
-
   <PlanterCoffin.label>гроб плантатора (горизонтальный)
 </PlanterCoffin.label>
   <PlanterCoffin.description>Труп-лучший источник питания для растений,и гроб также идеально подходит для посадки.С 214% плодородность</PlanterCoffin.description>
   <PlanterCoffin_Blueprint.label>гроб плантатора (горизонтальный)(светокопия)</PlanterCoffin_Blueprint.label>
   <PlanterCoffin_Frame.label>гроб плантатора (горизонтальный)(здание)</PlanterCoffin_Frame.label>
   <PlanterCoffin_Frame.description>Труп-лучший источник питания для растений,и гроб также идеально подходит для посадки.С 214% плодородность</PlanterCoffin_Frame.description>
-
   <VerPlanterCoffin.label>гроб плантатора (вертекальный)
 </VerPlanterCoffin.label>
   <VerPlanterCoffin.description>Труп-лучший источник питания для растений,и гроб также идеально подходит для посадки.С 214% плодородность
@@ -17,34 +14,22 @@
   <VerPlanterCoffin_Blueprint.label>гроб плантатора (вертекальный)(светокопия)</VerPlanterCoffin_Blueprint.label>
   <VerPlanterCoffin_Frame.label>гроб плантатора (вертекальный)(здание)</VerPlanterCoffin_Frame.label>
   <VerPlanterCoffin_Frame.description>Труп-лучший источник питания для растений,и гроб также идеально подходит для посадки.С 214% плодородность</VerPlanterCoffin_Frame.description>
-
-
   <!-- 灌溉 -->
-
   <CorpseIrrigator.label>труп ирригатор</CorpseIrrigator.label>
   <CorpseIrrigator.description>Во-первых,растворите удобрение трупа в маленьком баке, тогда вы получите самый лучший питательный раствор. Во-вторых, постройте статую с трупом, которая может направлять  питательную жидкость периодически в регулируемом направлении.Теперь вы получаете художественный полуавтоматический ирригатор.</CorpseIrrigator.description>
   <CorpseIrrigator_Blueprint.label>труп ирригатор (чертеж)</CorpseIrrigator_Blueprint.label>
   <CorpseIrrigator_Frame.label>труп ирригатор (здание)</CorpseIrrigator_Frame.label>
   <CorpseIrrigator_Frame.description>Во-первых,растворите удобрение трупа в маленьком баке, тогда вы получите самый лучший питательный раствор. Во-вторых, постройте статую с трупом, который может мочить питательную жидкость периодически в регулируемом направлении.Теперь вы получаете художественный полуавтоматический ирригатор.</CorpseIrrigator_Frame.description>
-
-
   <!-- 蛆虫培育 -->
-
   <MaggotsBreeder.label>Производитель личинок.</MaggotsBreeder.label>
   <MaggotsBreeder.description>Эти некрофагические личинки могут расти и размножаться с невероятной эффективностью.Оставьте их с некоторыми антисептическими трупами, чтобы ограничить их аппетиты, чтобы они не потребляли пищу слишком рано, а затем голодали.</MaggotsBreeder.description>
   <MaggotsBreeder_Blueprint.label>Производитель личинок(чертеж)</MaggotsBreeder_Blueprint.label>
   <MaggotsBreeder_Frame.label>Производитель личинок(строительство)</MaggotsBreeder_Frame.label>
   <MaggotsBreeder_Frame.description>Эти некрофагические личинки могут расти и размножаться с невероятной эффективностью.Оставьте их с некоторыми антисептическими трупами, чтобы ограничить их аппетиты, чтобы они не потребляли пищу слишком рано, а затем голодали.</MaggotsBreeder_Frame.description>
-
-
   <!-- Sculptures 十字架 -->
-
   <Crucifix_DCS.label>распятие</Crucifix_DCS.label>
   <Crucifix_DCS.description>Самая реалистичная скульптура может быть сделана только из реальной жизни.Если вы позволите своим отпрыскам спрятаться за ним, ваши противники просто зададутся вопросом, в какие тела они должны стремиться
 </Crucifix_DCS.description>
   <Crucifix_DCS_Blueprint_Install.label>распятие(светокопия)</Crucifix_DCS_Blueprint_Install.label>
-
-
   <!-- Sculptures -->
-
 </LanguageData>

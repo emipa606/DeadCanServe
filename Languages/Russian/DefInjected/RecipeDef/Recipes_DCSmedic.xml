@@ -1,53 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <TakeBloodFromCorpse.label>взять кровь из трупа
 </TakeBloodFromCorpse.label>
   <TakeBloodFromCorpse.description>Кровь не нужна мертвому телу, но необходима живому.
 </TakeBloodFromCorpse.description>
   <TakeBloodFromCorpse.jobString>взятие крови из трупа
 </TakeBloodFromCorpse.jobString>
-
   <ExperimentOnCorpse.label>эксперимент на трупе</ExperimentOnCorpse.label>
   <ExperimentOnCorpse.description>
 
 Если вы хотите тренировать свое умение спасать людей, вам лучше тренировать его на человеческом теле.</ExperimentOnCorpse.description>
   <ExperimentOnCorpse.jobString>Провидение эксперимента на трупе.</ExperimentOnCorpse.jobString>
-
   <MakeAntisepticCorpse.label>сделать труп антисептиком
 </MakeAntisepticCorpse.label>
   <MakeAntisepticCorpse.description>Сделать труп, наполненный травами и завернутый в ткань.Похоже на маму, но так лучше.Когда вы снимите ткань,вы все равно получите тело без увядания и обезвоживания.
 </MakeAntisepticCorpse.description>
   <MakeAntisepticCorpse.jobString>изготовление антисептического трупа
 </MakeAntisepticCorpse.jobString>
-
   <MakeAntisepticCorpseBT.label>Сделать Труп Антисептиком</MakeAntisepticCorpseBT.label>
   <MakeAntisepticCorpseBT.description>Сделать труп наполненным травами и обернутым тканью с целью антисептики.Это должно быть обработано в более чистом и профессиональном стенде как химическая лаборатория, так или иначе вы можете все еще произвести здесь с более высокой ценой и более длинным временем.</MakeAntisepticCorpseBT.description>
   <MakeAntisepticCorpseBT.jobString>делаем труп антисептиком.</MakeAntisepticCorpseBT.jobString>
-
   <MakeTrainedMechanites.label>Механика Поезда</MakeTrainedMechanites.label>
   <MakeTrainedMechanites.description>Мы знаем, что Люциферий может исправить тело из-за нанороботов, которые называют "Механитов" внутри. Во-первых, соедините Механитов в Люциферии с сознанием некоторых мертвых врачей или ученых-медиков. Во-вторых, ввести Механитов в свежее мертвое тело. Затем через контролируемый интеллект внутри них мы можем обучить их завершению работы, не испортив тело. Наконец, собирайте и пополняйте механитов нанотехнологами из медицины мира белков.</MakeTrainedMechanites.description>
   <MakeTrainedMechanites.jobString>Обучение Механике</MakeTrainedMechanites.jobString>
-
   <FormAntisepticCorpses.label>Форма Антисептических Трупов</FormAntisepticCorpses.label>
   <FormAntisepticCorpses.description>Удалите безопасные ограничения механитов и повысьте их до максимальной эффективности.Единственная работа, которую им нужно закончить, - это воссоздать некоторые виды мяса, чтобы подделать человеческие тела.Не нужно заботиться о побочных эффектах или сопутствующих повреждениях, потому что предметы-это только трупы.</FormAntisepticCorpses.description>
   <FormAntisepticCorpses.jobString>формирование антисептических трупов.</FormAntisepticCorpses.jobString>
-
   <AdvancedAnatomy.label>Продвинутая Анатомия</AdvancedAnatomy.label>
   <AdvancedAnatomy.description>Трудность сбора органов заключается в том, что всегда слишком поздно это делать. Но теперь мы можем использовать Механитов, чтобы исправить сломанные органы и использовать нервные сигналы в дисках памяти, чтобы пробудить инактивированные органы. Просто убедитесь, что труп остается свежим, тогда вы можете получить полный комплект.</AdvancedAnatomy.description>
   <AdvancedAnatomy.jobString>извлечение органов из трупа.</AdvancedAnatomy.jobString>
-
   <MakeMechSerumHealerDCS.label>Сделать Сыворотку Целитель Механик.</MakeMechSerumHealerDCS.label>
   <MakeMechSerumHealerDCS.description>Во-первых, перепрограммируйте обученную механику в более безопасный режим целителя и удалите большинство кодов, которые вызовут смертельную зависимость. Между тем,их целебная эффективность также будет снижена, поэтому мы объединяем их с миром белков для компенсации. Наконец, мы можем получить имитированную сыворотку меха целителя.</MakeMechSerumHealerDCS.description>
   <MakeMechSerumHealerDCS.jobString>Изготовление Лечебной Меховой Сыворотки.</MakeMechSerumHealerDCS.jobString>
-
   <MakeMechSerumResurrectorDCS.label>Сделать воскрешающую мех сыворотку.</MakeMechSerumResurrectorDCS.label>
   <MakeMechSerumResurrectorDCS.description>Технология изготовления воскресителя аналогична технологии изготовления целителя Мехсерума.Конечно, потребуется больше механитов и лекарств.И будет еще один дополнительный шаг напоминания воскрешенному телу, как снова жить воспоминаниями из мертвых.</MakeMechSerumResurrectorDCS.description>
   <MakeMechSerumResurrectorDCS.jobString>Изготовление воскрешающей меховой сыворотки.</MakeMechSerumResurrectorDCS.jobString>
-
   <MakeMechSerumNeurotrainerDCS.label>Сделайте сыворотку нейро-тренажер.</MakeMechSerumNeurotrainerDCS.label>
   <MakeMechSerumNeurotrainerDCS.description>Соберите знания определенного навыка из памяти нескольких мертвых людей и перепечатайте их в перепрограммированных механитов, которые могут сделать эти знания применимыми для живых людей.</MakeMechSerumNeurotrainerDCS.description>
   <MakeMechSerumNeurotrainerDCS.jobString>Создание нейро-тренажера сыворотки.</MakeMechSerumNeurotrainerDCS.jobString>
-
-
 </LanguageData>
