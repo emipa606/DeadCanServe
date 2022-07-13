@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Dead Can Serve (Continued)</name>
   <packageId>Mlie.DeadCanServe</packageId>
@@ -12,25 +12,29 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of CapatinSnafus mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1735705268
 Based on Ogliss 1.2 update
 https://steamcommunity.com/sharedfiles/filedetails/?id=2018891555
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/DeadCanServe][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 [h1]IMPROTANT :[/h1]
 If you are a 1.1 player , please use this version :
-https://steamcommunity.com/sharedfiles/filedetails/?id=2018891555
+[strike]https://steamcommunity.com/sharedfiles/filedetails/?id=2018891555[/strike]
 I am not currently maintaining this mod, i have quit playing Rim World :(
 
 =====================================
@@ -44,18 +48,18 @@ This mod adds several ways to utilize the corpses. Dead coloniest can still save
 Should be balanced with the vanilla game and compatible with any other mods. Safe with existing savefile. 
 
 [h1]New TechTree:[/h1]
-This tech tree contains every parts of this mod. If you don&apos;t like anything in this mod, you can just not research it and it won&apos;t show up in your game.
+This tech tree contains every parts of this mod. If you don't like anything in this mod, you can just not research it and it won't show up in your game.
 
 [h1]New Items:[/h1]
 [olist]
 
-[*][b]ProteinPowder:[/b] produced from humanlike or animal corpse in Refinery. High nutrition packaged food, can avoid the cannibal penalty because nobody will associate it with human&apos;s body.
+[*][b]ProteinPowder:[/b] produced from humanlike or animal corpse in Refinery. High nutrition packaged food, can avoid the cannibal penalty because nobody will associate it with human's body.
 [*][b]BloodBag:[/b] drawn from humanlike corpse in DrugLab, can be used as medicine. 
 [*][b]AntisepticCorpse:[/b] processed in DrugLab and ButcherTable. Can be stacked and used for buildings.
 [*][b]CorpseFertilizer:[/b] processed in Refinery. Then you can use these bloody fertilizer to build a new terrain: [b]blood soil[/b](175%fertility). 
-[*][b]LargeMaggots:[/b] These squirming worms may be disgusting, but contain more proteins than mammal&apos;s meats.Great for feeding animals. Breeded in Maggots Breeder.
-[*][b]ProgrammedMemoryDisk: [/b] Scan the corpse&apos;s brain and reprint its memory and knowledge along with AI programs into a small digital disk. Made in Fabrication Bench.
-[*][b]TrainedMechanites: [/b] Can extract nano robots in the Luciferium and train them with dead man&apos;s mind in a corpse.
+[*][b]LargeMaggots:[/b] These squirming worms may be disgusting, but contain more proteins than mammal's meats.Great for feeding animals. Breeded in Maggots Breeder.
+[*][b]ProgrammedMemoryDisk: [/b] Scan the corpse's brain and reprint its memory and knowledge along with AI programs into a small digital disk. Made in Fabrication Bench.
+[*][b]TrainedMechanites: [/b] Can extract nano robots in the Luciferium and train them with dead man's mind in a corpse.
 [/olist]
 
 [h1]New Jobs:[/h1]
@@ -92,26 +96,6 @@ This tech tree contains every parts of this mod. If you don&apos;t like anything
 [*]If you like this mod, welcome to translate it in your mother language.
 [/list]
 
-==================================
-
-[h1]More version and Submod:[/h1]
-
-[list]
-[*]If you are a medieval mod player, use this medieval version:
-https://steamcommunity.com/sharedfiles/filedetails/?id=1776511809
-
-[*]If you are also playing with Rim of Madness - Vampires ,you can try this submod:
-https://steamcommunity.com/sharedfiles/filedetails/?edit=true&amp;id=1779678957
-
-[*]If you want to use the memories from the death to do more cool psychic control ,try this :
-https://steamcommunity.com/sharedfiles/filedetails/?id=1793714347
-
-[*]If you want to use blood bag to do transfusion to cure blood loss,try this:
-https://steamcommunity.com/sharedfiles/filedetails/?id=1793761297
-
-[*]If you want to build a real robot sever which has real human&apos;s minds inside, try this :
-https://steamcommunity.com/sharedfiles/filedetails/?edit=true&amp;id=1897365776
-[/list]
 ============================
 
 [b]Join me in our bodies party ![/b]
@@ -126,7 +110,7 @@ I have many ideas for these dead buddies, but i am a very new modder in this gam
 
 [h1]If you like this, give me a rate![/h1]
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -137,4 +121,3 @@ I have many ideas for these dead buddies, but i am a very new modder in this gam
 [/list]
 </description>
 </ModMetaData>
-
