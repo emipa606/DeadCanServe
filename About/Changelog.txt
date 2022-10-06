@@ -1,4 +1,7 @@
 # Changelog for DeadCanServe
 
+1.4.1 - Mod updated for 1.4 and passed autotests
+
+
 1.0.1.0 - Updated for 1.3
 

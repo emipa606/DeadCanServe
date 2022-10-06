@@ -1,21 +1,21 @@
 # DeadCanServe
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of CapatinSnafus mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1735705268
 Based on Ogliss 1.2 update
 https://steamcommunity.com/sharedfiles/filedetails/?id=2018891555
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 # IMPROTANT :
 
 If you are a 1.1 player , please use this version :
-https://steamcommunity.com/sharedfiles/filedetails/?id=2018891555
+[strike]https://steamcommunity.com/sharedfiles/filedetails/?id=2018891555[/strike]
 I am not currently maintaining this mod, i have quit playing Rim World :(
 
 =====================================
@@ -31,19 +31,19 @@ Should be balanced with the vanilla game and compatible with any other mods. Saf
 
 # New TechTree:
 
-This tech tree contains every parts of this mod. If you don&apos;t like anything in this mod, you can just not research it and it won&apos;t show up in your game.
+This tech tree contains every parts of this mod. If you don't like anything in this mod, you can just not research it and it won't show up in your game.
 
 # New Items:
 
 [olist]
 
-- **ProteinPowder:** produced from humanlike or animal corpse in Refinery. High nutrition packaged food, can avoid the cannibal penalty because nobody will associate it with human&apos;s body.
+- **ProteinPowder:** produced from humanlike or animal corpse in Refinery. High nutrition packaged food, can avoid the cannibal penalty because nobody will associate it with human's body.
 - **BloodBag:** drawn from humanlike corpse in DrugLab, can be used as medicine. 
 - **AntisepticCorpse:** processed in DrugLab and ButcherTable. Can be stacked and used for buildings.
 - **CorpseFertilizer:** processed in Refinery. Then you can use these bloody fertilizer to build a new terrain: **blood soil**(175%fertility). 
-- **LargeMaggots:** These squirming worms may be disgusting, but contain more proteins than mammal&apos;s meats.Great for feeding animals. Breeded in Maggots Breeder.
-- **ProgrammedMemoryDisk: ** Scan the corpse&apos;s brain and reprint its memory and knowledge along with AI programs into a small digital disk. Made in Fabrication Bench.
-- **TrainedMechanites: ** Can extract nano robots in the Luciferium and train them with dead man&apos;s mind in a corpse.
+- **LargeMaggots:** These squirming worms may be disgusting, but contain more proteins than mammal's meats.Great for feeding animals. Breeded in Maggots Breeder.
+- **ProgrammedMemoryDisk: ** Scan the corpse's brain and reprint its memory and knowledge along with AI programs into a small digital disk. Made in Fabrication Bench.
+- **TrainedMechanites: ** Can extract nano robots in the Luciferium and train them with dead man's mind in a corpse.
 [/olist]
 
 # New Jobs:
@@ -85,29 +85,6 @@ This tech tree contains every parts of this mod. If you don&apos;t like anything
 
 
 
-==================================
-
-# More version and Submod:
-
-
-
-
-- If you are a medieval mod player, use this medieval version:
-https://steamcommunity.com/sharedfiles/filedetails/?id=1776511809
-
-- If you are also playing with Rim of Madness - Vampires ,you can try this submod:
-https://steamcommunity.com/sharedfiles/filedetails/?edit=true&amp;id=1779678957
-
-- If you want to use the memories from the death to do more cool psychic control ,try this :
-https://steamcommunity.com/sharedfiles/filedetails/?id=1793714347
-
-- If you want to use blood bag to do transfusion to cure blood loss,try this:
-https://steamcommunity.com/sharedfiles/filedetails/?id=1793761297
-
-- If you want to build a real robot sever which has real human&apos;s minds inside, try this :
-https://steamcommunity.com/sharedfiles/filedetails/?edit=true&amp;id=1897365776
-
-
 ============================
 
 **Join me in our bodies party !**
@@ -123,7 +100,7 @@ I have many ideas for these dead buddies, but i am a very new modder in this gam
 # If you like this, give me a rate!
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -133,6 +110,7 @@ I have many ideas for these dead buddies, but i am a very new modder in this gam
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
