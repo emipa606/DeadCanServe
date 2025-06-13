@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Corpse Irrigator -->
+  <CorpseIrrigator.label>Corpse Irrigator</CorpseIrrigator.label>
+  <!-- EN: First,dissolve the Corpse Fertilizer into a little tank,then you get the best nutrient solution. Second, build a statue with corpse which can piss the nutrition liquid periodically in adjustable direction. Now you get a artistic semi-auto irrigator. -->
+  <CorpseIrrigator.description>First,dissolve the Corpse Fertilizer into a little tank,then you get the best nutrient solution. Second, build a statue with corpse which can piss the nutrition liquid periodically in adjustable direction. Now you get a artistic semi-auto irrigator.</CorpseIrrigator.description>
+  <!-- EN: crucifix -->
+  <Crucifix_DCS.label>crucifix</Crucifix_DCS.label>
+  <!-- EN: The most lifelike sculpture can only be made with real life. If you let your spawns hide behind it, your opponents will just wonder which bodies they should aim at. -->
+  <Crucifix_DCS.description>The most lifelike sculpture can only be made with real life. If you let your spawns hide behind it, your opponents will just wonder which bodies they should aim at.</Crucifix_DCS.description>
+  <!-- EN: maggots breeder -->
+  <MaggotsBreeder.label>maggots breeder</MaggotsBreeder.label>
+  <!-- EN: These necrophagous maggots can grow and reproduce in unbelievable efficiency. Leave them with some antiseptic corpses to limit their appetites so that they won't consume the foods too soon then starve themselves. -->
+  <MaggotsBreeder.description>These necrophagous maggots can grow and reproduce in unbelievable efficiency. Leave them with some antiseptic corpses to limit their appetites so that they won't consume the foods too soon then starve themselves.</MaggotsBreeder.description>
+  <!-- EN: planter coffin(horizontal) -->
+  <PlanterCoffin.label>planter coffin(horizontal)</PlanterCoffin.label>
+  <!-- EN: A corpse is the best source of nutrition for plants and the coffin is also perfect to be the planting box. With 214% fertility. -->
+  <PlanterCoffin.description>A corpse is the best source of nutrition for plants and the coffin is also perfect to be the planting box. With 214% fertility.</PlanterCoffin.description>
+  <!-- EN: planter coffin(vertical) -->
+  <VerPlanterCoffin.label>planter coffin(vertical)</VerPlanterCoffin.label>
+  <!-- EN: A corpse is the best source of nutrition for plants and the coffin is also perfect to be the planting box. With 214% fertility. -->
+  <VerPlanterCoffin.description>A corpse is the best source of nutrition for plants and the coffin is also perfect to be the planting box. With 214% fertility.</VerPlanterCoffin.description>
+</LanguageData>

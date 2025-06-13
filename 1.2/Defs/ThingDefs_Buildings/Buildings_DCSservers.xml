@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <!-- CorpseServer series -->
   <ThingDef ParentName="BuildingBase" Name="DCS_CorpseServer" Abstract="True">

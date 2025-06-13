@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Advanced Anatomy -->
+  <AdvancedAnatomy.label>Advanced Anatomy</AdvancedAnatomy.label>
+  <!-- EN: The difficulty of organs harvest is that it's always too late to do it. But now, we can use the Mechanites to fix the broken organs and use the neural signals in MemoryDisks to awake the inactivated organs. Just make sure the corpse stay fresh, then you can get a full set. -->
+  <AdvancedAnatomy.description>The difficulty of organs harvest is that it's always too late to do it. But now, we can use the Mechanites to fix the broken organs and use the neural signals in MemoryDisks to awake the inactivated organs. Just make sure the corpse stay fresh, then you can get a full set.</AdvancedAnatomy.description>
+  <!-- EN: harvesting organs from corpse. -->
+  <AdvancedAnatomy.jobString>harvesting organs from corpse.</AdvancedAnatomy.jobString>
+  <!-- EN: experiment on corpse -->
+  <ExperimentOnCorpse.label>experiment on corpse</ExperimentOnCorpse.label>
+  <!-- EN: If you want to train your skill about saving people, you would better train it on a human's body. -->
+  <ExperimentOnCorpse.description>If you want to train your skill about saving people, you would better train it on a human's body.</ExperimentOnCorpse.description>
+  <!-- EN: Doing experiments on corpse. -->
+  <ExperimentOnCorpse.jobString>Doing experiments on corpse.</ExperimentOnCorpse.jobString>
+  <!-- EN: Form Antiseptic Corpses -->
+  <FormAntisepticCorpses.label>Form Antiseptic Corpses</FormAntisepticCorpses.label>
+  <!-- EN: Remove the safe restrictions of the mechanites and boost them up to their highest efficiency. The only job they need to finish is reconstructing some meats to fake human-like bodies. Don't need to care about the side effects or collateral damages because the subjects are only corpses. -->
+  <FormAntisepticCorpses.description>Remove the safe restrictions of the mechanites and boost them up to their highest efficiency. The only job they need to finish is reconstructing some meats to fake human-like bodies. Don't need to care about the side effects or collateral damages because the subjects are only corpses.</FormAntisepticCorpses.description>
+  <!-- EN: forming antiseptic corpses. -->
+  <FormAntisepticCorpses.jobString>forming antiseptic corpses.</FormAntisepticCorpses.jobString>
+  <!-- EN: make Antiseptic Corpse -->
+  <MakeAntisepticCorpse.label>make Antiseptic Corpse</MakeAntisepticCorpse.label>
+  <!-- EN: To make an corpse filled with herbs and wrapped by cloth.Sounds like mummy,but it's better. Whenever you remove the cloth, you will still get a body without decay and dehydration. -->
+  <MakeAntisepticCorpse.description>To make an corpse filled with herbs and wrapped by cloth.Sounds like mummy,but it's better. Whenever you remove the cloth, you will still get a body without decay and dehydration.</MakeAntisepticCorpse.description>
+  <!-- EN: making antiseptic corpse. -->
+  <MakeAntisepticCorpse.jobString>making antiseptic corpse.</MakeAntisepticCorpse.jobString>
+  <!-- EN: Make Antiseptic Corpse -->
+  <MakeAntisepticCorpseBT.label>Make Antiseptic Corpse</MakeAntisepticCorpseBT.label>
+  <!-- EN: To make an corpse filled with herbs and wrapped by cloth on the purpose of antisepsis. This should be processed in a cleaner and more professional bench like druglab, anyway you can still produce here with higher cost and longer time. -->
+  <MakeAntisepticCorpseBT.description>To make an corpse filled with herbs and wrapped by cloth on the purpose of antisepsis. This should be processed in a cleaner and more professional bench like druglab, anyway you can still produce here with higher cost and longer time.</MakeAntisepticCorpseBT.description>
+  <!-- EN: making antiseptic corpse. -->
+  <MakeAntisepticCorpseBT.jobString>making antiseptic corpse.</MakeAntisepticCorpseBT.jobString>
+  <!-- EN: Make Healer MechSerum -->
+  <MakeMechSerumHealerDCS.label>Make Healer MechSerum</MakeMechSerumHealerDCS.label>
+  <!-- EN: First,reprogram the trained mechanites to a safer healer mode and erase most of the codes which will cause deadly addiction. Meanwhile,their healing efficiency will be also reduced,so we combine them with Glitterworld's medicine to compensate. Finally,we can get an imitated Healer MechSerum. -->
+  <MakeMechSerumHealerDCS.description>First,reprogram the trained mechanites to a safer healer mode and erase most of the codes which will cause deadly addiction. Meanwhile,their healing efficiency will be also reduced,so we combine them with Glitterworld's medicine to compensate. Finally,we can get an imitated Healer MechSerum.</MakeMechSerumHealerDCS.description>
+  <!-- EN: Making Healer MechSerum -->
+  <MakeMechSerumHealerDCS.jobString>Making Healer MechSerum</MakeMechSerumHealerDCS.jobString>
+  <!-- EN: Make Resurrector MechSerum -->
+  <MakeMechSerumResurrectorDCS.label>Make Resurrector MechSerum</MakeMechSerumResurrectorDCS.label>
+  <!-- EN: The technology of producting Resurrector is similar to producting Healer MechSerum.Of course, it will need more mechanites and medicine. And there will be one more extra step of reminding the resurrected body how to live again by the memories from the dead. -->
+  <MakeMechSerumResurrectorDCS.description>The technology of producting Resurrector is similar to producting Healer MechSerum.Of course, it will need more mechanites and medicine. And there will be one more extra step of reminding the resurrected body how to live again by the memories from the dead.</MakeMechSerumResurrectorDCS.description>
+  <!-- EN: Making Resurrector MechSerum -->
+  <MakeMechSerumResurrectorDCS.jobString>Making Resurrector MechSerum</MakeMechSerumResurrectorDCS.jobString>
+  <!-- EN: Train Mechanites In Corpse -->
+  <MakeTrainedMechanites.label>Train Mechanites In Corpse</MakeTrainedMechanites.label>
+  <!-- EN: We know that Luciferium can fix body because of the nano robots which called "Mechanites" inside. First,connect the Mechanites in the Luciferium with the consciousness from some dead doctors or medicine scientists. Second,inject the Mechanites into a fresh dead body. Then through the controlled Intelligence inside them,we can train them about finishing job without messing the body up. Last,collect and replenish the mechanites by nano techs from the glitterworld's medicine. -->
+  <MakeTrainedMechanites.description>We know that Luciferium can fix body because of the nano robots which called "Mechanites" inside. First,connect the Mechanites in the Luciferium with the consciousness from some dead doctors or medicine scientists. Second,inject the Mechanites into a fresh dead body. Then through the controlled Intelligence inside them,we can train them about finishing job without messing the body up. Last,collect and replenish the mechanites by nano techs from the glitterworld's medicine.</MakeTrainedMechanites.description>
+  <!-- EN: Training Mechanites -->
+  <MakeTrainedMechanites.jobString>Training Mechanites</MakeTrainedMechanites.jobString>
+  <!-- EN: draw blood from corpse -->
+  <TakeBloodFromCorpse.label>draw blood from corpse</TakeBloodFromCorpse.label>
+  <!-- EN: Blood is unnecessary for a dead body, but essential for the living one. -->
+  <TakeBloodFromCorpse.description>Blood is unnecessary for a dead body, but essential for the living one.</TakeBloodFromCorpse.description>
+  <!-- EN: drawing blood from Corpse. -->
+  <TakeBloodFromCorpse.jobString>drawing blood from Corpse.</TakeBloodFromCorpse.jobString>
+  <!-- EN: Train Mechanites From HealerSerum  -->
+  <TrainedMechanitesFromHealerSerum.label>Train Mechanites From HealerSerum </TrainedMechanitesFromHealerSerum.label>
+  <!-- EN: We know that Healer MechSerum can fix body because of the nano robots which called "Mechanites" inside and they are more safer than than their same kind in the Luciferium. We just need to extract them from the serum then reset or adjust their functions. By connecting them with the consciousness from some dead doctors or medicine scientists, we can change their working principle more faster. Last,replenish the mechanites by nano techs from the glitterworld's medicine. -->
+  <TrainedMechanitesFromHealerSerum.description>We know that Healer MechSerum can fix body because of the nano robots which called "Mechanites" inside and they are more safer than than their same kind in the Luciferium. We just need to extract them from the serum then reset or adjust their functions. By connecting them with the consciousness from some dead doctors or medicine scientists, we can change their working principle more faster. Last,replenish the mechanites by nano techs from the glitterworld's medicine.</TrainedMechanitesFromHealerSerum.description>
+  <!-- EN: Training Mechanites -->
+  <TrainedMechanitesFromHealerSerum.jobString>Training Mechanites</TrainedMechanitesFromHealerSerum.jobString>
+</LanguageData>

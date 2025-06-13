@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Corpse Butcher -->
+  <CorpseButcher.label>Corpse Butcher</CorpseButcher.label>
+  <!-- EN: These half-corpse-half-robot things are angry about being dead, we can utilize those by letting them cut some dead bodies and vegetables. They get vent,and we get meals.(MAX 1) -->
+  <CorpseButcher.description>These half-corpse-half-robot things are angry about being dead, we can utilize those by letting them cut some dead bodies and vegetables. They get vent,and we get meals.(MAX 1)</CorpseButcher.description>
+  <!-- EN: Death Monitor -->
+  <DeathMonitor.label>Death Monitor</DeathMonitor.label>
+  <!-- EN: No one can understand death more than someone who has actually been through the death. This intelligent corpse can sense the smell of death and monitor the vital signs of patients days and nights. It will also help with nursing and first aid if necessary.(MAX 1) -->
+  <DeathMonitor.description>No one can understand death more than someone who has actually been through the death. This intelligent corpse can sense the smell of death and monitor the vital signs of patients days and nights. It will also help with nursing and first aid if necessary.(MAX 1)</DeathMonitor.description>
+  <!-- EN: Handy Corpse -->
+  <HandyCorpse.label>Handy Corpse</HandyCorpse.label>
+  <!-- EN: Use the mechanical system to turn a corpse to an semi-auto handyman. It's only intelligent enough to assist workers by handing tools or materials repeatedly.(MAX 2) -->
+  <HandyCorpse.description>Use the mechanical system to turn a corpse to an semi-auto handyman. It's only intelligent enough to assist workers by handing tools or materials repeatedly.(MAX 2)</HandyCorpse.description>
+  <!-- EN: Inspiration Bulb -->
+  <InspirationBulb.label>Inspiration Bulb</InspirationBulb.label>
+  <!-- EN: We all know that when people get ideas, there's always sinning bulbs above their heads. Not only can the inspiration bulb provide light, but also offer buff for research.(MAX 2) -->
+  <InspirationBulb.description>We all know that when people get ideas, there's always sinning bulbs above their heads. Not only can the inspiration bulb provide light, but also offer buff for research.(MAX 2)</InspirationBulb.description>
+  <!-- EN: Meat Grinder -->
+  <MeatGrinderDCS.label>Meat Grinder</MeatGrinderDCS.label>
+  <!-- EN: A corpse robot which work with meat grinders. Can boost the working speed of butcher table. Sometime this simpleton will accidentally grind it's fingers into the meats. But don't worry about it, they are meats either.(MAX 1) -->
+  <MeatGrinderDCS.description>A corpse robot which work with meat grinders. Can boost the working speed of butcher table. Sometime this simpleton will accidentally grind it's fingers into the meats. But don't worry about it, they are meats either.(MAX 1)</MeatGrinderDCS.description>
+  <!-- EN: Stone Sawer -->
+  <StoneSawerDCS.label>Stone Sawer</StoneSawerDCS.label>
+  <!-- EN: A corpse robot which work with a stone-sawing machine. Can boost the working speed of Stone-cutting table. Sometime this simpleton will accidentally saw off it's fingers. But don't worry about it, it's not your finger.(MAX 1) -->
+  <StoneSawerDCS.description>A corpse robot which work with a stone-sawing machine. Can boost the working speed of Stone-cutting table. Sometime this simpleton will accidentally saw off it's fingers. But don't worry about it, it's not your finger.(MAX 1)</StoneSawerDCS.description>
+</LanguageData>

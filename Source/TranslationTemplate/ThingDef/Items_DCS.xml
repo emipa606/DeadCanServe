@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: antiseptic corpse -->
+  <AntisepticCorpse.label>antiseptic corpse</AntisepticCorpse.label>
+  <!-- EN: An corpse filled with herb and wrapped by cloth. Sounds like mummy,but it's better.Whenever you remove the cloth, you will still get a body without decay and dehydration. But don't even try to cook it as food. -->
+  <AntisepticCorpse.description>An corpse filled with herb and wrapped by cloth. Sounds like mummy,but it's better.Whenever you remove the cloth, you will still get a body without decay and dehydration. But don't even try to cook it as food.</AntisepticCorpse.description>
+  <!-- EN: blood bag -->
+  <BloodBag.label>blood bag</BloodBag.label>
+  <!-- EN: The Blood taken from a human will be used for another human in the medical treatment. -->
+  <BloodBag.description>The Blood taken from a human will be used for another human in the medical treatment.</BloodBag.description>
+  <!-- EN: corpse fertilizer -->
+  <CorpseFertilizer.label>corpse fertilizer</CorpseFertilizer.label>
+  <!-- EN: Grind the meat and put them in fermentation process. Now we get the bloody fertilizer which is full of nutrient. -->
+  <CorpseFertilizer.description>Grind the meat and put them in fermentation process. Now we get the bloody fertilizer which is full of nutrient.</CorpseFertilizer.description>
+  <!-- EN: large maggots -->
+  <LargeMaggots.label>large maggots</LargeMaggots.label>
+  <!-- EN: These squirming worms may be disgusting, but contain more proteins than mammal's meats. Great for feeding animals. Humans can eat them, but they really hate it. -->
+  <LargeMaggots.description>These squirming worms may be disgusting, but contain more proteins than mammal's meats. Great for feeding animals. Humans can eat them, but they really hate it.</LargeMaggots.description>
+  <!-- EN: Programmed MemoryDisk -->
+  <ProgrammedMemoryDisk.label>Programmed MemoryDisk</ProgrammedMemoryDisk.label>
+  <!-- EN: A little digital disk which contains a human's memory and knowledge with basic AI programs. -->
+  <ProgrammedMemoryDisk.description>A little digital disk which contains a human's memory and knowledge with basic AI programs.</ProgrammedMemoryDisk.description>
+  <!-- EN: high-calcium protein powder -->
+  <ProteinPowder.label>high-calcium protein powder</ProteinPowder.label>
+  <!-- EN: Convenient supply with abundant nutrition in a sealed jar. Not so palatable, but nobody will associate it with its original source. -->
+  <ProteinPowder.description>Convenient supply with abundant nutrition in a sealed jar. Not so palatable, but nobody will associate it with its original source.</ProteinPowder.description>
+  <!-- EN: Trained Mechanites -->
+  <TrainedMechanites.label>Trained Mechanites</TrainedMechanites.label>
+  <!-- EN: After the extraction from Luciferium, these mechanites will be reprogramed and trained for varied purposes. And this time, these naughty nano robots should work in order and in control. -->
+  <TrainedMechanites.description>After the extraction from Luciferium, these mechanites will be reprogramed and trained for varied purposes. And this time, these naughty nano robots should work in order and in control.</TrainedMechanites.description>
+</LanguageData>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Make Joywire -->
+  <MakeJoywireDCS.label>Make Joywire</MakeJoywireDCS.label>
+  <!-- EN: To make a brain implant which can release some modified happy memories from several dead peoples continuously. -->
+  <MakeJoywireDCS.description>To make a brain implant which can release some modified happy memories from several dead peoples continuously.</MakeJoywireDCS.description>
+  <!-- EN: Making Joywire. -->
+  <MakeJoywireDCS.jobString>Making Joywire.</MakeJoywireDCS.jobString>
+  <!-- EN: Make Psychic Animal Pulser -->
+  <MakePsychicAnimalPulserDCS.label>Make Psychic Animal Pulser</MakePsychicAnimalPulserDCS.label>
+  <!-- EN: To make a device which combines violent or hunting memories from several dead peoples and can connect to animals' brains. These frightened and threatened wild animals will hunt humans before humans hunt them. -->
+  <MakePsychicAnimalPulserDCS.description>To make a device which combines violent or hunting memories from several dead peoples and can connect to animals' brains. These frightened and threatened wild animals will hunt humans before humans hunt them.</MakePsychicAnimalPulserDCS.description>
+  <!-- EN: Making Psychic Animal Pulser. -->
+  <MakePsychicAnimalPulserDCS.jobString>Making Psychic Animal Pulser.</MakePsychicAnimalPulserDCS.jobString>
+  <!-- EN: Make Psychic Insanity Lance -->
+  <MakePsychicInsanityLanceDCS.label>Make Psychic Insanity Lance</MakePsychicInsanityLanceDCS.label>
+  <!-- EN: To make a device which can send mixed memories from several dead peoples into a living creature's brain. These chaotic memories will definitely draw the object to madness. -->
+  <MakePsychicInsanityLanceDCS.description>To make a device which can send mixed memories from several dead peoples into a living creature's brain. These chaotic memories will definitely draw the object to madness.</MakePsychicInsanityLanceDCS.description>
+  <!-- EN: Making Psychic Insanity Lance. -->
+  <MakePsychicInsanityLanceDCS.jobString>Making Psychic Insanity Lance.</MakePsychicInsanityLanceDCS.jobString>
+  <!-- EN: Make Psychic Shock Lance -->
+  <MakePsychicShockLanceDCS.label>Make Psychic Shock Lance</MakePsychicShockLanceDCS.label>
+  <!-- EN: To make a device which can send mixed memories from several dead peoples into a living creature's brain. These chaotic memories will drop the object into a state of psychic shock and probably cause brain damage. -->
+  <MakePsychicShockLanceDCS.description>To make a device which can send mixed memories from several dead peoples into a living creature's brain. These chaotic memories will drop the object into a state of psychic shock and probably cause brain damage.</MakePsychicShockLanceDCS.description>
+  <!-- EN: Making Psychic Insanity Lance. -->
+  <MakePsychicShockLanceDCS.jobString>Making Psychic Insanity Lance.</MakePsychicShockLanceDCS.jobString>
+  <!-- EN: Make Psychic Soothe Pulser -->
+  <MakePsychicSoothePulserDCS.label>Make Psychic Soothe Pulser</MakePsychicSoothePulserDCS.label>
+  <!-- EN: To make a device which can send chosen peaceful memories from several dead peoples into living people's brains. These happy exotic emotions will make positive effects even if they don't know why. -->
+  <MakePsychicSoothePulserDCS.description>To make a device which can send chosen peaceful memories from several dead peoples into living people's brains. These happy exotic emotions will make positive effects even if they don't know why.</MakePsychicSoothePulserDCS.description>
+  <!-- EN: Making Psychic Soothe Pulser. -->
+  <MakePsychicSoothePulserDCS.jobString>Making Psychic Soothe Pulser.</MakePsychicSoothePulserDCS.jobString>
+  <!-- EN: Make Techprof Subpersona Core -->
+  <MakeTechprofSubpersonaCoreDCS.label>Make Techprof Subpersona Core</MakeTechprofSubpersonaCoreDCS.label>
+  <!-- EN: It's impossible that people in Rimworld can invent such an advanced AI core. But with one to be the reference and some boughten technical supports, maybe we can combine the fragments of knowledges from the dead men's memories and make a patchwork of a new technology. -->
+  <MakeTechprofSubpersonaCoreDCS.description>It's impossible that people in Rimworld can invent such an advanced AI core. But with one to be the reference and some boughten technical supports, maybe we can combine the fragments of knowledges from the dead men's memories and make a patchwork of a new technology.</MakeTechprofSubpersonaCoreDCS.description>
+  <!-- EN: Making Techprof Subpersona Core. -->
+  <MakeTechprofSubpersonaCoreDCS.jobString>Making Techprof Subpersona Core.</MakeTechprofSubpersonaCoreDCS.jobString>
+  <!-- EN: Replicate Memories -->
+  <ReplicateMemoryDisk.label>Replicate Memories</ReplicateMemoryDisk.label>
+  <!-- EN: Combine and remix memories from other disks to create new memories. It's not easy to avoid the conflicts and debug the made-up stories. -->
+  <ReplicateMemoryDisk.description>Combine and remix memories from other disks to create new memories. It's not easy to avoid the conflicts and debug the made-up stories.</ReplicateMemoryDisk.description>
+  <!-- EN: Replicating Memory Disk -->
+  <ReplicateMemoryDisk.jobString>Replicating Memory Disk</ReplicateMemoryDisk.jobString>
+  <!-- EN: Scan Corpse's Brain -->
+  <ScanCorpseBrain.label>Scan Corpse's Brain</ScanCorpseBrain.label>
+  <!-- EN: Scan the corpse's brain and reprint its memory and knowledge along with AI programs into a small digital disk. This work requires dexterous manipulation and smart intelligence. -->
+  <ScanCorpseBrain.description>Scan the corpse's brain and reprint its memory and knowledge along with AI programs into a small digital disk. This work requires dexterous manipulation and smart intelligence.</ScanCorpseBrain.description>
+  <!-- EN: Scaning Corpse's Brain. -->
+  <ScanCorpseBrain.jobString>Scaning Corpse's Brain.</ScanCorpseBrain.jobString>
+</LanguageData>

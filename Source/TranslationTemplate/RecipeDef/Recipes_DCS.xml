@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: breed the maggots -->
+  <BreedMaggotsWithCorpse.label>breed the maggots</BreedMaggotsWithCorpse.label>
+  <!-- EN: The maggots in rimworld can grow and reproduce in unbelievable efficiency if they get enough corpses. They don't care about fresh or rotten, just don't give them the antiseptic one. -->
+  <BreedMaggotsWithCorpse.description>The maggots in rimworld can grow and reproduce in unbelievable efficiency if they get enough corpses. They don't care about fresh or rotten, just don't give them the antiseptic one.</BreedMaggotsWithCorpse.description>
+  <!-- EN: Breeding maggots with corpse. -->
+  <BreedMaggotsWithCorpse.jobString>Breeding maggots with corpse.</BreedMaggotsWithCorpse.jobString>
+  <!-- EN: refine chemfuel from corpse -->
+  <MakeChemfuelFromCorpse.label>refine chemfuel from corpse</MakeChemfuelFromCorpse.label>
+  <!-- EN: Witness the last heat and light of a life. -->
+  <MakeChemfuelFromCorpse.description>Witness the last heat and light of a life.</MakeChemfuelFromCorpse.description>
+  <!-- EN: Refining Chemfuel from Corpse. -->
+  <MakeChemfuelFromCorpse.jobString>Refining Chemfuel from Corpse.</MakeChemfuelFromCorpse.jobString>
+  <!-- EN: make fertilizer from corpse -->
+  <MakeFertilizerFromCorpse.label>make fertilizer from corpse</MakeFertilizerFromCorpse.label>
+  <!-- EN: Grind the meat and put them in fermentation process. Now we get the bloody fertilizer which is full of nutrient. -->
+  <MakeFertilizerFromCorpse.description>Grind the meat and put them in fermentation process. Now we get the bloody fertilizer which is full of nutrient.</MakeFertilizerFromCorpse.description>
+  <!-- EN: Refining fertilizer from corpse. -->
+  <MakeFertilizerFromCorpse.jobString>Refining fertilizer from corpse.</MakeFertilizerFromCorpse.jobString>
+  <!-- EN: product proteinPowder with corpse -->
+  <MakeProteinPowderFromCorpse.label>product proteinPowder with corpse</MakeProteinPowderFromCorpse.label>
+  <!-- EN: Don't worry, nobody will find out what he is actually eating. -->
+  <MakeProteinPowderFromCorpse.description>Don't worry, nobody will find out what he is actually eating.</MakeProteinPowderFromCorpse.description>
+  <!-- EN: Producing ProteinPowder. -->
+  <MakeProteinPowderFromCorpse.jobString>Producing ProteinPowder.</MakeProteinPowderFromCorpse.jobString>
+  <!-- EN: make ProteinPowder from maggots -->
+  <MakeProteinPowderFromMaggots.label>make ProteinPowder from maggots</MakeProteinPowderFromMaggots.label>
+  <!-- EN: Don't worry, nobody will find out what he is actually eating. -->
+  <MakeProteinPowderFromMaggots.description>Don't worry, nobody will find out what he is actually eating.</MakeProteinPowderFromMaggots.description>
+  <!-- EN: Producing ProteinPowder. -->
+  <MakeProteinPowderFromMaggots.jobString>Producing ProteinPowder.</MakeProteinPowderFromMaggots.jobString>
+</LanguageData>
