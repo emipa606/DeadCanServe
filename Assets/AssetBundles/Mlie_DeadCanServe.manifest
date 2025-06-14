@@ -1,0 +1,62 @@
+ManifestFileVersion: 0
+CRC: 3036069426
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d36632bfb8c96cd01d7e49d5c52adb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3d36632bfb8c96cd01d7e49d5c52adb9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/PlanterCoffin/PlanterCoffin_J.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Item/BloodBag.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/PlanterCoffin/PlanterCoffin_I.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Item/ProgrammedMemoryDisk.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/MaggotBreeder/MaggotBreeder_A.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/CorpseIrrigator_east.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/PlanterCoffin/PlanterCoffin_D.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Item/AntisepticCorpse.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Item/TrainedMechanites.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/VerPlanterCoffin/VerPlanterCoffin_J.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Item/LargeMaggots.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/MaggotBreeder/MaggotBreeder_C.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/VerPlanterCoffin/VerPlanterCoffin_B.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/PlanterCoffin/PlanterCoffin_E.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/VerPlanterCoffin/VerPlanterCoffin_D.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/Crucifix_north.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/DeathMonitor.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/VerPlanterCoffin/VerPlanterCoffin_C.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/PlanterCoffin/PlanterCoffin_H.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/PlanterCoffin/PlanterCoffin_C.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/InspirationBulb.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/PlanterCoffin/PlanterCoffin_B.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/MeatGrinderDCS.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/CorpseIrrigator_north.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/VerPlanterCoffin/VerPlanterCoffin_I.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/StoneSawerDCS.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/HandyCorpse.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Item/ProteinPowder.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/Crucifix_east.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/floor/CorpseBuriedSoil.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/PlanterCoffin/PlanterCoffin_G.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/VerPlanterCoffin/VerPlanterCoffin_G.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/VerPlanterCoffin/VerPlanterCoffin_F.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/Crucifix_south.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/VerPlanterCoffin/VerPlanterCoffin_E.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/VerPlanterCoffin/VerPlanterCoffin_A.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Item/CorpseFertilizer.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/VerPlanterCoffin/VerPlanterCoffin_H.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/PlanterCoffin/PlanterCoffin_A.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/PlanterCoffin/PlanterCoffin_F.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/MaggotBreeder/MaggotBreeder_B.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/CorpseButcher.png
+- Assets/Data/Mlie.DeadCanServe/Textures/Things/Building/MaggotBreeder/MaggotBreeder_D.png
+Dependencies: []
