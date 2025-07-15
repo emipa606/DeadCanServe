@@ -4,7 +4,7 @@
     <defName>CorpseBuriedSoil</defName>
     <label>blood soil</label>
     <description>Soil fertilized by blood and flesh. With 175% fertility.</description>
-    <texturePath>Things/floor/CorpseBuriedSoil</texturePath>
+    <texturePath>Terrain/CorpseBuriedSoil</texturePath>
     <edgeType>FadeRough</edgeType>
     <renderPrecedence>335</renderPrecedence>
     <pathCost>5</pathCost>

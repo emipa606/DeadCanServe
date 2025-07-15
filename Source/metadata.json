@@ -3,10 +3,16 @@
   "CanAdd": "0",
   "CanRemove": "2",
   "PreviewVersion": "1.6",
-  "LastXmlCleaning": "2025-06-14T19:30:40.318271+02:00",
+  "LastXmlCleaning": "2025-07-15T21:16:33.3084328+02:00",
   "SocialImageSet": true,
   "SearchTags": [
     "corpse",
     " utilization"
-  ]
+  ],
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 90892,
+  "CodeBaseSize": 78
 }
