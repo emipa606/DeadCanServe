@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <TerrainDef>
+  <TerrainDef ParentName="NaturalTerrainBase">
     <defName>CorpseBuriedSoil</defName>
     <label>blood soil</label>
     <description>Soil fertilized by blood and flesh. With 175% fertility.</description>

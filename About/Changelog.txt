@@ -1,5 +1,8 @@
 # Changelog for DeadCanServe
 
+1.6.3 - Fixed walkability for terrain-defs
+
+
 1.6.2 - Reupload with fixed asset bundle, terrain has specific bundle-properties
 
 
